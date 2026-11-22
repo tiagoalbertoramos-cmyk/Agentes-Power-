@@ -917,3 +917,262 @@ Faixas: 1ª até R$ 180.000; 2ª R$ 180.000,01–360.000; 3ª R$ 360.000,01–72
 - Portaria Conjunta RFB/PGFN 1.751/2014: http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=57331
 
 ---
+
+## 9. Pessoa física do empresário
+
+### 9.1 DIRPF — obrigatoriedade e prazos
+
+- **DIRPF 2026 (ano-calendário 2025):** prazo **16/03 a 29/05/2026** ⚠️; obrigatoriedade (IN RFB da DIRPF 2026 ⚠️ conferir): rendimentos tributáveis > **R$ 33.888,00**; isentos/exclusivos > **R$ 200.000**; bens > **R$ 800.000** em 31/12; receita bruta rural > **R$ 169.440**; operações em bolsa > R$ 40.000 ou com ganho tributável; ganho de capital; titular de **entidade controlada no exterior/trust** ou de aplicações financeiras no exterior (Lei 14.754/2023); opção pela isenção na venda de imóvel com reinvestimento.
+- **DIRPF 2027 (ano-calendário 2026):** primeira com **IRPFM** e redutor da Lei 15.270; sócios que receberam dividendos devem reconciliar IRRF 10% retido.
+- **Multa por atraso (MAED):** **1% ao mês** sobre o imposto devido, mínimo **R$ 165,74**, máximo 20%.
+- **Restituição:** lotes de maio a setembro; prioridade a quem usa pré-preenchida + Pix.
+- **Desconto simplificado:** 20% dos rendimentos tributáveis, limitado a **R$ 16.754,34** (DIRPF 2025 ⚠️ conferir 2026).
+- **Deduções (modelo completo):** dependentes (R$ 2.275,08/ano), educação (limite R$ 3.561,50/ano por pessoa), saúde (sem limite), PGBL (até **12%** da renda tributável), INSS, pensão alimentícia judicial, livro-caixa (autônomos).
+
+### 9.2 Carnê-leão (Lei 7.713/1988, art. 8º)
+
+- Rendimentos recebidos de **PF** (aluguéis, serviços autônomos, pensão) e do **exterior** (salvo aplicações financeiras e entidades controladas sob a Lei 14.754, que vão para a declaração anual).
+- Cálculo pela tabela progressiva mensal (com o redutor de 2026); deduções: livro-caixa, INSS, dependentes, pensão.
+- **Vencimento:** **último dia útil do mês seguinte** ao recebimento; programa "Carnê-Leão Web" no e-CAC.
+
+### 9.3 Ganho de capital (Lei 8.981/1995, art. 21; Lei 13.259/2016)
+
+| Parcela do ganho | Alíquota |
+|---|---|
+| Até R$ 5 milhões | **15%** |
+| R$ 5 mi a R$ 10 mi | 17,5% |
+| R$ 10 mi a R$ 30 mi | 20% |
+| Acima de R$ 30 mi | 22,5% |
+
+- **Isenções:** bens de pequeno valor até **R$ 35.000/mês** (por natureza de bem); **ações em bolsa até R$ 20.000/mês** de vendas (exceto day trade); **único imóvel até R$ 440.000** sem outra alienação em 5 anos; **venda de imóvel residencial com reinvestimento em outro residencial em 180 dias** (art. 39 Lei 11.196/2005; STJ admitiu o uso do valor para quitar financiamento de outro imóvel residencial — REsp 1.469.478/SP ⚠️); imóveis adquiridos até 1969; redução de 5% ao ano para imóveis adquiridos entre 1969–1988 (art. 18 Lei 7.713); **fatores de redução FR1/FR2** (art. 40 Lei 11.196).
+- **Prazo:** DARF (código 4600) até o **último dia útil do mês seguinte** à alienação; programa GCAP integrado à DIRPF.
+- **Mercado de ações:** swing trade 15%; day trade 20% (IRRF 1%); FII: rendimentos isentos para PF (requisitos: ≥ 100 cotistas, cotista < 10% das cotas — Lei 14.754 ajustou ⚠️), ganho na venda 20%.
+- **Bens/aplicações em moeda estrangeira:** regras de cálculo em reais conforme origem dos recursos (MP 2.158-35, art. 24) — atenção à Lei 14.754 (variação cambial de depósitos não remunerados isenta; moeda em espécie até US$ 5.000 isenta).
+
+### 9.4 Bens e rendas no exterior — Lei 14.754/2023 (vigente desde 01/01/2024)
+
+**Aplicações financeiras no exterior (PF residente):**
+- **15% anual** sobre rendimentos (juros, dividendos, ganhos na alienação/resgate), apurados na **DIRPF** (não mais carnê-leão/ganho de capital mensal), sem faixa de isenção.
+- Compensação de **perdas** com ganhos do mesmo ano e dos seguintes (dentro das aplicações financeiras e entidades controladas ⚠️).
+- **Crédito do imposto pago no exterior** (tratado ou reciprocidade), limitado ao imposto brasileiro.
+- **Variação cambial** de depósitos não remunerados em conta no exterior: isenta; de principal de aplicações: tributada no resgate em reais conforme regra da lei ⚠️.
+
+**Entidades controladas no exterior ("offshores"):**
+- Lucros apurados pela controlada em **31/12** de cada ano são tributados **15% na PF**, **independentemente de distribuição** (regime de "competência"), quando a entidade for: localizada em país com tributação favorecida/regime fiscal privilegiado **ou** com **renda ativa própria < 60%** da renda total.
+- Opção pelo **regime de transparência fiscal** (bens e direitos da offshore declarados como se fossem da PF).
+- Lucros já tributados não sofrem nova tributação na distribuição.
+- **Atualização opcional** de bens no exterior com alíquota de **8%** — prazo encerrado em 2024.
+
+**Trusts:**
+- Bens e direitos são considerados do **instituidor (settlor)** até a distribuição/falecimento; na transferência ao beneficiário: **doação** (se em vida) ou **transmissão causa mortis** — incidência de ITCMD (LC 227/2026 trata de trusts ⚠️) e não de IR.
+- Informar na DIRPF conforme a titularidade atribuída.
+
+**Fundos no Brasil (mesma lei):**
+- **Fundos fechados** passaram a ter **come-cotas** semestral (maio e novembro) — 15% (longo prazo) ou 20% (curto prazo); estoque tributado em 2023/2024 com opção de 8%.
+- **FII/Fiagro**: manutenção da isenção dos rendimentos com requisitos de cotistas.
+
+### 9.5 CBE — Capitais Brasileiros no Exterior (Banco Central)
+
+- **Base:** Resolução BCB 279/2022 ⚠️ e Lei 14.286/2021 (marco cambial).
+- **Quem declara:** residentes no Brasil (PF e PJ) com ativos no exterior totalizando **≥ US$ 1.000.000** em 31/12 (**anual**); **≥ US$ 100.000.000** ao fim de cada trimestre (**trimestral**).
+- **Prazo anual:** de fevereiro até **05/04** do ano seguinte (data-base 31/12) ⚠️; trimestrais com prazos próprios.
+- **Conteúdo:** depósitos, participações societárias, investimentos de portfólio, imóveis, derivativos, empréstimos.
+- **Penalidades:** multas pelo BCB por não entrega/atraso/informação falsa (até R$ 250 mil ⚠️).
+- **Atenção:** CBE é independente da DIRPF; ambos devem ser consistentes (bens, valores em US$ e R$).
+
+### 9.6 Regras práticas para o empresário PF
+
+1. **Pró-labore mínimo** compatível com a atividade (INSS para aposentadoria e cobertura); com a isenção até R$ 5 mil, pró-labore de até R$ 5 mil/mês não paga IRPF.
+2. **Dividendos:** planejar pagamentos mensais ≤ R$ 50 mil **por fonte** quando possível; consolidar projeção do IRPFM anual (> R$ 600 mil).
+3. **Lucros de 2025:** manter documentação da aprovação (até 31/12/2025 ou 31/01/2026 pela liminar) e cronograma até 2028.
+4. **Bens no exterior:** declarar na DIRPF (código do país, valor em R$ pela cotação de compra do BCB na aquisição), CBE se ≥ US$ 1 mi, tributação anual 15% (Lei 14.754).
+5. **Sucessão:** avaliar doação antes de aumentos estaduais de ITCMD; PGBL/VGBL fora do ITCMD (LC 227) mas sujeitos a IR na resgate/benefício (tabela regressiva 35%→10% ou progressiva).
+
+**Fontes — Seção 9**
+- Lei 14.754/2023: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14754.htm
+- Receita — Meu Imposto de Renda: https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda
+- Ganho de capital (Lei 13.259/2016): https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13259.htm
+- Lei 11.196/2005 (art. 39/40): https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm
+- CBE – Banco Central: https://www.bcb.gov.br/estabilidadefinanceira/cbe
+
+---
+
+## 10. Calendário fiscal e checklist de fechamento
+
+### 10.1 Calendário mensal típico (competência do mês M; vencimentos em M+1) ⚠️ antecipar/prorrogar conforme dia útil e legislação local
+
+| Dia (M+1) | Obrigação / pagamento |
+|---|---|
+| **5º dia útil** | Salário dos empregados (CLT art. 459, §1º); DAE do empregador doméstico até o dia 7 |
+| **10** | ISS em muitos municípios (ex.: SP dia 10) ⚠️; GPS doméstico (DAE) dia 7 |
+| **15** | **eSocial** (eventos periódicos); **EFD-Reinf**; EFD ICMS/IPI (alguns estados) |
+| **20** | **DARF previdenciário (INSS via DCTFWeb)**; **FGTS Digital**; **IRRF** (salários, serviços, aluguéis — Lei 11.196/2005, art. 70); **CSRF** retida (último dia útil do 2º decêndio — Lei 10.833, art. 35); **DAS Simples Nacional** e **PGDAS-D**; **DAS-MEI** |
+| **25** | **PIS/Cofins** (Real e Presumido); **IPI** (regra geral) — antecipa se não for dia útil. IOF: até o 3º dia útil do decêndio seguinte ao da cobrança |
+| **Último dia útil** | **IRPJ/CSLL** estimativa mensal (Real anual) ou quotas trimestrais; **DCTFWeb** (com MIT); carnê-leão; ganho de capital PF; DME |
+| **10º dia útil do 2º mês** | **EFD-Contribuições** |
+| Variável por estado | ICMS próprio, ICMS-ST, DIFAL, GIA/EFD ICMS, DeSTDA (dia 28) |
+
+### 10.2 Calendário anual (datas usuais; ⚠️ confirmar ADE de agenda tributária do ano)
+
+| Mês | Obrigações |
+|---|---|
+| **Janeiro** | Opção pelo Simples Nacional (até o último dia útil); opção pelo regime de tributação (Presumido/Real) com o 1º DARF (abril, trimestral; fev, estimativa); IPTU/IPVA (calendário local); pagamento de lucros aprovados |
+| **Fevereiro** | **Informe de rendimentos** (último dia útil); DIMOB; DMED; início do prazo da CBE |
+| **Março** | **DEFIS** (31/03); início da DIRPF (meados de março) |
+| **Abril** | **AGO de S.A. e assembleia/reunião de sócios de Ltda.** (até 4 meses após o fim do exercício — art. 132 Lei 6.404 e art. 1.078 CC): aprovação de contas e destinação de lucros; **CBE anual** (até 05/04) ⚠️; opção pelo regime regular de IBS/CBS no Simples para o 2º semestre (a partir de 2027) ⚠️ |
+| **Maio** | **DIRPF** (último dia útil ~29/05); **ECD** (último dia útil); **DASN-SIMEI** (31/05) |
+| **Junho** | Prazo de ajuste de IRPF de espólio/saída definitiva ⚠️ |
+| **Julho** | **ECF** (último dia útil); FORMP&D (Lei do Bem, 31/07) |
+| **Agosto** | — |
+| **Setembro** | **DITR** (30/09); opção pelo regime regular de IBS/CBS para o 1º semestre do ano seguinte (regra geral; em 2026 prorrogada a 30/10) ⚠️ |
+| **Outubro/Novembro** | Planejamento tributário do ano seguinte (simulação de regimes); 1ª parcela do 13º (até 30/11) |
+| **Dezembro** | 2ª parcela do 13º (até 20/12); **aprovação de distribuição de lucros** quando necessário; inventário físico de estoques (31/12); revisão de provisões; avaliar antecipação/postergação de receitas/despesas lícitas; cancelamento da opção do Simples/IBS-CBS (2026: até 20/12) |
+
+### 10.3 Checklist de fechamento mensal (para o agente conduzir com o cliente)
+
+**A. Documentação e integrações (D+1 a D+3)**
+1. Importar XMLs de NF-e/NFC-e/CT-e/NFS-e emitidas e recebidas (validar com SEFAZ/ADN — manifestação do destinatário).
+2. Conferir notas canceladas, inutilizadas, devoluções e cartas de correção.
+3. Extratos bancários, cartões, adquirentes (maquininhas), Pix, aplicações; a partir de 2027, **relatório de split payment**.
+4. Folha: eventos do mês (admissões, férias, rescisões, afastamentos), pró-labore, benefícios.
+
+**B. Escrituração fiscal (D+3 a D+10)**
+5. Apuração de ICMS/IPI (créditos, débitos, ST, DIFAL, CIAP); ISS próprio e retido.
+6. PIS/Cofins (2026) — créditos de insumos com memória de cálculo; **2026: conferir destaque CBS/IBS** em todos os documentos.
+7. Retenções na fonte (IRRF, CSRF, INSS 11% cessão de mão de obra, ISS) — EFD-Reinf.
+8. Simples Nacional: segregação de receitas por anexo, ST/monofásico (excluir do DAS), exportação, Fator R mensal.
+
+**C. Contabilidade (D+5 a D+12)**
+9. **Conciliação bancária** de todas as contas (saldo contábil × extrato) e de recebíveis de cartão.
+10. Conciliação de **clientes** (aging, PECLD — CPC 48) e **fornecedores**.
+11. **Estoques:** custo médio, inventário rotativo, CMV; conferir com registro de inventário (Bloco H/K).
+12. **Imobilizado:** adições, baixas, depreciação (contábil e fiscal — Parte B), impairment se indícios.
+13. **Provisões:** férias e 13º com encargos, bônus/PLR, contingências (CPC 25), juros e variações cambiais, AVP.
+14. Apropriação de despesas antecipadas (seguros, assinaturas) e receitas diferidas (CPC 47 — contratos ao longo do tempo).
+15. **Arrendamentos** (CPC 06): amortização do direito de uso e juros do passivo.
+16. Empréstimos: juros por competência (custo amortizado), IOF.
+17. **Tributos sobre o lucro:** estimativa/trimestral de IRPJ/CSLL; IR/CS diferido (CPC 32) no fechamento trimestral/anual.
+18. Conciliação de contas de **tributos a recolher × guias pagas × DCTFWeb**.
+19. Conta corrente de **sócios** e **partes relacionadas** (mútuos geram IOF e, se não houver contrato, risco de distribuição disfarçada de lucros — art. 60 DL 1.598/1977).
+
+**D. Declarações e pagamentos (até os vencimentos)**
+20. eSocial → DCTFWeb (encerrar folha, transmitir, emitir DARF); FGTS Digital.
+21. EFD-Reinf; PGDAS-D/DAS; EFD ICMS/IPI; EFD-Contribuições.
+22. Guias estaduais/municipais.
+
+**E. Relatórios gerenciais (D+10 a D+15)**
+23. Balancete, DRE gerencial, fluxo de caixa realizado × orçado, indicadores (margem bruta, EBITDA, prazo médio de recebimento/pagamento, giro de estoque, endividamento).
+24. **Carga tributária efetiva** do mês (tributos ÷ receita) e comparação com o regime alternativo.
+25. Situação fiscal (e-CAC, PGFN, SEFAZ, prefeitura, FGTS, CNDT) e **alertas de prazos** do mês seguinte.
+26. Pendências e plano de ação com o cliente; registro de decisões (atas) quando houver distribuição de lucros.
+
+**Fontes — Seção 10**
+- Agenda Tributária RFB: https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria
+- ADE Corat de agenda tributária (exemplo 2025): https://www.gov.br/receitafederal/pt-br/assuntos/agenda-tributaria/arquivos-e-imagens-agenda-tributaria/agenda-tributaria-2025/ato-declaratorio-executivo-corat-no-26-de-28-de-outubro-de-2025.pdf/@@download/file
+- FGTS Digital: https://www.gov.br/trabalho-e-emprego/pt-br/servicos/empregador/fgtsdigital
+
+---
+
+## 11. Tabelas-resumo 2026
+
+### 11.1 Valores de referência 2026
+
+| Item | Valor 2026 | Fonte/obs. |
+|---|---|---|
+| Salário mínimo | **R$ 1.621,00** | Decreto 2025/2026 ⚠️ |
+| Teto do INSS | **R$ 8.475,55** | Portaria Interministerial MPS/MF 13/2026 |
+| INSS máximo do empregado | ≈ R$ 988,09 | tabela progressiva |
+| INSS contribuinte individual (11% teto) | ≈ R$ 932,31 | — |
+| DAS-MEI (INSS) | R$ 81,05 + R$ 1 (ICMS) / R$ 5 (ISS) | 5% do SM |
+| Limite MEI | R$ 81.000/ano | PLP 186/2026 pendente de sanção ⚠️ |
+| Limite ME | R$ 360.000 | LC 123 |
+| Limite EPP / Simples | R$ 4.800.000 | LC 123 |
+| Sublimite ICMS/ISS | R$ 3.600.000 | LC 123 |
+| Limite Lucro Presumido | R$ 78.000.000 | Lei 9.718 |
+| Faixa de acréscimo LC 224 (Presumido) | Receita > R$ 5.000.000/ano (R$ 1,25 mi/trimestre) | ⚠️ judicializado |
+| Isenção IRPF mensal | Até R$ 5.000 (redutor) | Lei 15.270 |
+| Redução parcial IRPF | R$ 5.000,01 a R$ 7.350 | Lei 15.270 |
+| IRRF dividendos | 10% se > R$ 50.000/mês por PJ por PF | Lei 15.270 |
+| IRPFM | Renda anual > R$ 600 mil; 10% a partir de R$ 1,2 mi | Lei 15.270 |
+| IRRF JCP | 17,5% | LC 224 ⚠️ |
+| Bens de pequeno valor (despesa) | ≤ R$ 1.200 | RIR/2018 art. 313 |
+| DME (espécie) | ≥ R$ 30.000 | IN RFB 1.761/2017 |
+| Isenção ganho de capital (pequeno valor) | R$ 35.000/mês; ações R$ 20.000/mês | Lei 9.250, art. 22 |
+| Único imóvel isento | Até R$ 440.000 | Lei 9.250, art. 23 |
+
+### 11.2 Alíquotas principais
+
+| Tributo | Alíquota 2026 | Observação 2027+ |
+|---|---|---|
+| IRPJ | 15% + 10% adicional (> R$ 20 mil/mês) | Mantido |
+| CSLL | 9% (geral); 15%/20% financeiras; fintechs 12% | LC 224 escalonamentos |
+| PIS/Cofins não cumulativo | 1,65% / 7,6% | **Extintos em 2027** |
+| PIS/Cofins cumulativo | 0,65% / 3% | **Extintos em 2027** |
+| CBS | 0,9% (teste, recolhimento dispensado) | ~11,2% em 2027–2028 (ref. TCU 11,3%) ⚠️ |
+| IBS | 0,1% (teste) | 0,1% em 2027–2028; cresce 2029–2033 |
+| IPI | TIPI | Zero em 2027 (exceto ZFM) |
+| IS | — | MP 1.399/2026 a partir de 02/02/2027 ⚠️ |
+| ICMS interno | 17% a 23% (modal) | 90% em 2029 … extinto 2033 |
+| ICMS interestadual | 4% / 7% / 12% | idem |
+| ISS | 2% a 5% | idem |
+| CPP patronal | 20% + RAT 1–3% × FAP + terceiros ~5,8% | Desoneração: CPRB 60% + 10% (2026); 40% + 15% (2027); 20% integral (2028) |
+| FGTS | 8% | — |
+| IOF crédito PJ | 0,0082%/dia + 0,95% (≈ 3,95% a.a.) | ⚠️ |
+| IOF câmbio (saídas) | 3,5% | ⚠️ |
+| IRRF serviços profissionais | 1,5% | — |
+| CSRF | 4,65% | PIS/Cofins retidos perdem objeto em 2027 ⚠️ |
+| ITCMD | até 8%, progressivo obrigatório | Leis estaduais em adaptação |
+| ITBI | 2% a 3% (típico) | — |
+| Ganho de capital PF | 15% a 22,5% | — |
+| Aplicações/offshores no exterior (PF) | 15% anual | — |
+
+### 11.3 Presunções do Lucro Presumido (com e sem LC 224)
+
+| Atividade | IRPJ até R$ 5 mi | IRPJ excedente | CSLL até R$ 5 mi | CSLL excedente |
+|---|---|---|---|---|
+| Combustíveis | 1,6% | 1,76% | 12% | 13,2% |
+| Comércio/indústria/transporte de cargas/hospitalares | 8% | 8,8% | 12% | 13,2% |
+| Transporte de passageiros | 16% | 17,6% | 12% | 13,2% |
+| Serviços em geral | 32% | 35,2% | 32% | 35,2% |
+
+### 11.4 Cronograma consolidado da reforma (linha do tempo)
+
+| Data | Evento |
+|---|---|
+| 01/01/2026 | Ano-teste IBS/CBS; Lei 15.270 (IRPF/dividendos) vigente; LC 224 (IRPJ, JCP); NFS-e nacional |
+| 01/04/2026 | LC 224 para PIS/Cofins/CSLL/IPI/CPP (noventena) |
+| 29/04/2026 | Regulamento da CBS (Decreto 12.955) |
+| 30/10/2026 | Fim do prazo de opção do Simples pelo regime regular IBS/CBS (1º sem./2027) |
+| 16/11/2026 | Produção — rejeição de NF-e sem grupo IBS/CBS (NT 2025.002 v1.52) ⚠️ |
+| 15–22/12/2026 | Resolução do Senado — alíquota de referência CBS 2027 ⚠️ |
+| 20/12/2026 | Último dia para cancelar opções (Simples/IBS-CBS) para 2027 |
+| 01/01/2027 | **CBS plena; PIS/Cofins extintos; IPI zerado (exceto ZFM); cashback CBS; desoneração 40%/15%** |
+| 02/02/2027 | Início da cobrança do Imposto Seletivo (MP 1.399/2026) ⚠️ |
+| 01/01/2028 | Fim da CPRB (CPP 20% integral); CSLL fintechs 15% |
+| 2029–2032 | ICMS/ISS reduzidos a 90/80/70/60%; IBS cresce; cashback IBS |
+| 01/01/2033 | Extinção de ICMS e ISS; IBS pleno |
+
+---
+
+## 12. Mapa de incertezas e monitoramento
+
+| # | Tema | Por que é incerto | Onde monitorar |
+|---|---|---|---|
+| 1 | **Alíquota da CBS 2027** | TCU calculou 11,3% (Acórdão 2933/2026); Senado ainda deve fixar por resolução (prazo em dez/2026) | Senado Federal; TCU; RFB |
+| 2 | **Imposto Seletivo** | Alíquotas fixadas por **MP 1.399/2026** — pode ser alterada/rejeitada pelo Congresso; contencioso sobre "alíquotas emprestadas do IPI" | Congresso; Planalto |
+| 3 | **Transição de dividendos (Lei 15.270)** | Liminar do STF (ADIs 7.912/7.914) prorrogou prazo a 31/01/2026; referendo destacado ao plenário presencial; aplicação ao Simples (ADI 7.917) pendente | STF (portal de processos) |
+| 4 | **LC 224/2025** (presunção +10%, corte de benefícios, JCP 17,5%) | ADIs e liminares; regulamentação do Executivo (Decreto 12.808/2025 ⚠️) | STF; RFB |
+| 5 | **Split payment** | Sem data para obrigatoriedade; 1ª etapa facultativa (Pix/boleto/TED) | RFB/CGIBS (atos conjuntos) |
+| 6 | **Rejeição de NF-e sem IBS/CBS** | Datas adiadas sucessivamente (NT 2025.002 v1.50 → v1.53) | Portal Nacional da NF-e |
+| 7 | **Simples × IBS/CBS** | Prazos alterados por Res. CGSN 186 e 194/2026; regulamentação de DAS 2027 | Portal do Simples Nacional |
+| 8 | **ITCMD estadual** | LC 227 exige progressividade; estados ainda adaptando leis (SP 4%, MG 5% únicos em 2026); base de quotas de holdings | SEFAZ/Assembleias estaduais |
+| 9 | **Limite do MEI** | PLP 186/2026 aprovado, aguardando sanção (R$ 110 mil em 2027 → R$ 140 mil em 2028?) | Planalto (LCs 2026) |
+| 10 | **IOF** | Decreto 12.499/2025 vigente por decisão cautelar; mérito (ADC 96/ADI 7.827) pendente | STF |
+| 11 | Redutor anual do IRPF (tabela anual Lei 15.270) | Valores anuais não confirmados em fonte primária nesta pesquisa | Lei 9.250 (redação atual); RFB |
+| 12 | LC 225/2026 (devedor contumaz) e eventual LC 236/2026 | Regulamentação e decisões do STF (ADI 7.943 ⚠️ fonte única) | Planalto; STF |
+
+**Procedimento padrão do agente diante de ⚠️:** (1) informar o cliente que o ponto está em mudança; (2) apresentar o cenário mais provável e o alternativo; (3) recomendar confirmação na fonte primária (Planalto/RFB/STF/CGSN) antes de decisão; (4) quando houver risco relevante, sugerir provisão contábil (CPC 25) ou medida judicial preventiva com advogado tributarista.
+
+---
+
+*Documento compilado em 22/11/2026 a partir de fontes primárias (Planalto, RFB, STF, CVM, Senado) e secundárias qualificadas (Big4, escritórios, CRCs). Números marcados com ⚠️ requerem reconfirmação. Não substitui parecer profissional para o caso concreto.*

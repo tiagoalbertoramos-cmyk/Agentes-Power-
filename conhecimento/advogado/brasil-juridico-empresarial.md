@@ -898,3 +898,288 @@ Na distribuição "pura" (compra para revenda), a jurisprudência aplica de form
 **Fontes:** https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm · https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm · https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm · https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14181.htm · https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor
 
 ---
+## 10. Contratos Imobiliários Empresariais
+
+### 10.1 Locação não residencial (Lei 8.245/1991, Lei do Inquilinato)
+
+| Tema | Dispositivo | Regra |
+|---|---|---|
+| Liberdade de pactuar | arts. 17–18 | Aluguel livre; **é vedado o reajuste em periodicidade inferior a 1 ano** (Lei 10.192/2001) |
+| Revisional | art. 19 | Após **3 anos** de vigência do contrato ou do acordo anterior, qualquer parte pode pedir a revisão ao preço de mercado |
+| Garantias | art. 37 | Apenas **uma** modalidade por contrato: caução (até 3 aluguéis em dinheiro), fiança, seguro-fiança ou cessão fiduciária de quotas de fundo de investimento. A dupla garantia gera nulidade da segunda e contravenção (art. 43) |
+| Fiança | CC arts. 818–839; art. 40 | O fiador pode se exonerar no contrato prorrogado por prazo indeterminado, ficando responsável por 120 dias após a notificação (art. 40, X). **STF, Tema 1127 (2022):** é **constitucional a penhora do bem de família do fiador** de locação **comercial** |
+| Benfeitorias | art. 35 | Necessárias são indenizáveis. Úteis, se autorizadas. É **válida a cláusula de renúncia** (**Súmula 335 STJ**) |
+| Alienação do imóvel | arts. 8º e 27–34 | Direito de preferência do locatário (30 dias). A locação só é oponível ao adquirente se houver **cláusula de vigência averbada na matrícula** (art. 8º) |
+| Multa por devolução antecipada | art. 4º | Proporcional ao período restante (CC art. 413) |
+| Despejo | arts. 59–66 | Liminar em 15 dias, mediante caução de 3 aluguéis, nas hipóteses do art. 59, §1º (inclusive falta de pagamento sem garantia, inciso IX) |
+| Sublocação e cessão | art. 13 | Dependem de consentimento prévio e escrito |
+| Shopping center | art. 54 | Prevalecem as condições livremente pactuadas e as disposições procedimentais da lei. O lojista não paga obras de reforma e despesas extraordinárias (§1º). *Res sperata*, aluguel percentual, 13º aluguel e *tenant mix* são admitidos |
+
+### 10.2 Ação renovatória (arts. 51–57)
+
+- **Requisitos cumulativos (art. 51):**
+  1. contrato **escrito e por prazo determinado**;
+  2. prazo mínimo de **5 anos**, admitida a soma de contratos escritos ininterruptos (*accessio temporis*);
+  3. exploração do **mesmo ramo** pelo prazo mínimo e ininterrupto de **3 anos**.
+- **Prazo decadencial:** propositura entre **1 ano e 6 meses antes** do término do contrato (art. 51, §5º). Perdido o prazo, perde-se o direito à renovação compulsória.
+- Legitimidade do sublocatário e do cessionário (art. 51, §1º), e do franqueado ou franqueador na sublocação (Lei 13.966/2019).
+- **Petição inicial (art. 71):** prova dos requisitos, quitação dos impostos e encargos, **proposta de novo aluguel**, indicação de **fiador** com prova de idoneidade e anuência.
+- **Defesa do locador (arts. 52 e 72):** proposta insuficiente; proposta melhor de terceiro; obras determinadas pelo poder público; uso próprio ou transferência de fundo de comércio existente há mais de 1 ano de que o locador, cônjuge, ascendente ou descendente detenha a maioria do capital. O uso próprio não pode ser no mesmo ramo do locatário, salvo locação incluindo o fundo de comércio (art. 52, §1º). Em shopping, o locador não pode recusar por uso próprio (art. 52, §2º).
+- **Aluguel provisório:** até 80% do aluguel pedido (art. 72, §4º). A renovação é pelo prazo do contrato anterior. **STJ:** limitado a **5 anos** (por exemplo, REsp 1.323.410/MG).
+- **Indenização ao locatário (art. 52, §3º):** se a renovação não ocorrer em razão de proposta de terceiro ou se o locador não der ao imóvel o destino alegado em 3 meses, o locatário tem direito a indenização por lucros cessantes e despesas de mudança, incluindo a perda do fundo de comércio.
+
+### 10.3 Built to suit (art. 54-A, incluído pela Lei 12.744/2012)
+
+- **Conceito:** locação não residencial de imóvel urbano em que o locador adquire, constrói ou promove **reforma substancial** do imóvel conforme especificações do pretendente, por si ou por terceiros, para locação por **prazo determinado**.
+- **Regime:** **prevalecem as condições livremente pactuadas**, aplicando-se as disposições procedimentais da Lei 8.245/1991.
+- **Renúncia à revisional:** é possível pactuar a **renúncia ao direito de revisão** do aluguel durante o prazo (§1º).
+- **Multa por denúncia antecipada:** pode chegar à **soma dos aluguéis a receber até o término** (§2º), em exceção ao art. 4º e ao art. 413 do CC. ⚠️ Há precedentes discutindo redução em casos extremos.
+- **Estrutura usual:** contrato atípico misto. Aluguel remunera o investimento (*capex*) e o uso. Prazo longo (10–20 anos). Garantias corporativas. Possibilidade de **securitização de recebíveis (CRI)** e cessão fiduciária. Cláusula de vigência averbada. Opção de compra. Seguros e matriz de responsabilidade.
+- **Correlatos:** *sale and leaseback* (venda e locação de volta, usado para liquidez), direito de superfície (CC arts. 1.369–1.377; Estatuto da Cidade arts. 21–24), multipropriedade (CC arts. 1.358-B ss.), alienação fiduciária de imóvel (**Lei 9.514/1997** e **Lei 14.711/2023**, Marco Legal das Garantias: execução extrajudicial também de hipoteca, agente de garantias e alienação fiduciária superveniente). **STF, Tema 982 (2023):** a execução extrajudicial da Lei 9.514/1997 é constitucional.
+
+**Fontes:** https://www.planalto.gov.br/ccivil_03/leis/l8245.htm · https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12744.htm · https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm · https://portal.stf.jus.br/jurisprudenciaRepercussao/
+
+---
+
+## 11. Procedimentos Práticos, Sucessão e Proteção Patrimonial
+
+### 11.1 Abertura e alteração de empresas
+
+**Fluxo (REDESIM, Lei 11.598/2007; Lei 14.195/2021, Ambiente de Negócios):**
+1. **Consulta de viabilidade:** nome empresarial e localização (prefeitura), no portal integrador estadual. A Lei 14.195/2021 permite usar o **número do CNPJ como nome empresarial** (Lei 8.934/1994, art. 35-A).
+2. **DBE / Coleta Web na RFB:** quadro societário, CNAE e regime tributário.
+3. **Registro na Junta Comercial** (sociedades empresárias; Lei 8.934/1994) ou no **Cartório de Registro Civil de Pessoas Jurídicas** (sociedades simples, associações). Atos com **assinatura eletrônica** (avançada ou qualificada; IN DREI) e **registro automático** para atos padronizados (Lei 14.195/2021, art. 3º e art. 42 da Lei 8.934/1994 ⚠️ conferir dispositivos).
+4. **CNPJ**, inscrição estadual (ICMS) e municipal (ISS). Na Reforma, inscrição no cadastro do IBS e da CBS.
+5. **Licenciamento:**
+   - atividades de **baixo risco** dispensam alvará e licenças (Lei 13.874/2019, art. 3º, I; **Resolução CGSIM 51/2019**, substituída e consolidada por resoluções posteriores ⚠️ verificar a Resolução CGSIM vigente);
+   - risco médio: licença automática mediante autodeclaração;
+   - alto risco: análise prévia, com vistoria do Corpo de Bombeiros, vigilância sanitária e meio ambiente;
+   - **aprovação tácita** quando o prazo da autoridade for descumprido (Lei 13.874/2019, art. 3º, IX; Decreto 10.178/2019).
+6. Registros setoriais: CRF, CREA, ANVISA, MAPA, conselhos profissionais.
+7. Regime tributário: Simples Nacional (LC 123/2006, receita bruta de até R$ 4,8 milhões e opção em janeiro), lucro presumido (até R$ 78 milhões) ou lucro real. Na Reforma, avaliar a opção pelo IBS/CBS por fora do Simples.
+
+**CNAE:** a classificação (IBGE/CONCLA) determina o enquadramento de risco, a tributação (anexos do Simples, alíquotas de ISS), o FAP/RAT, o sindicato e o **enquadramento sindical** e as licenças. O objeto social deve ser compatível com os CNAEs.
+
+**DREI (normas-chave):**
+- **IN DREI 81/2020**, com manuais de registro de Ltda., S.A., cooperativa, empresário individual e EIRELI→SLU;
+- regras de assinatura eletrônica e de autenticação;
+- **nome empresarial:** princípios da veracidade e da novidade.
+- O DREI permite: atos sem advogado (salvo exigências legais, como visto de advogado no ato constitutivo da sociedade, ⚠️ dispensado para ME e EPP pela LC 123, art. 9º, §2º); procuração pública ou particular; integralização com quotas de outra sociedade; **sociedade com sócio estrangeiro** (representante no Brasil com poderes para receber citação, CC art. 1.134 para sociedade estrangeira autorizada; sócio pessoa física ou jurídica estrangeira precisa de CPF ou CNPJ e de procurador).
+
+**Alterações frequentes:** entrada e saída de sócios, aumento de capital, alteração de objeto e de sede (transferência interestadual), transformação de Ltda. em S.A. (CC art. 1.113; LSA art. 220), incorporação, cisão, abertura de filiais. Após cada alteração, atualizar o CNPJ, as inscrições e as licenças, e comunicar bancos, clientes e fornecedores. Prazo de **30 dias** da assinatura para arquivar o ato, com efeitos retroativos (Lei 8.934/1994, art. 36); após esse prazo, os efeitos valem a partir do deferimento.
+
+**Livros obrigatórios:** S.A. (LSA art. 100). Ltda.: livro de atas (se houver assembleia), Diário (ECD/SPED), Registro de Inventário. Documentos de atos societários na sede.
+
+**Encerramento:** distrato ou liquidação. **Baixa** com débitos é possível (LC 123/2006, art. 9º; Lei 11.598/2007, art. 7º-A): os sócios e administradores **respondem solidariamente** pelos débitos (LC 123, art. 9º, §5º; responsabilidade tributária por tributos não pagos). Na prática, a baixa irregular sem liquidação gera presunção de dissolução irregular (Súmula 435 STJ).
+
+### 11.2 Sucessão empresarial e planejamento sucessório
+
+| Instrumento | Base legal | Prós | Contras e riscos |
+|---|---|---|---|
+| **Holding familiar** | CC; LSA | Governança, unidade de controle, previsibilidade, evita condomínio de inventário sobre participações | ITBI (Tema 796); ITCMD a valor de mercado (LC 227/2026); IBS/CBS sobre locação a partir de 2027; custos de manutenção |
+| **Doação de quotas com reserva de usufruto** | CC arts. 538 ss., 1.390 ss. e 1.410 (extinção do usufruto pela morte) | Antecipa a sucessão. O doador mantém renda e direitos políticos (o usufrutuário pode reter o voto, art. 1.394, e LSA art. 114 exige ajuste sobre o voto). **ITCMD na doação da nua-propriedade**; em muitos estados, a extinção do usufruto não é tributada se o ITCMD foi pago integralmente na doação ⚠️ (regra estadual) | Respeitar a **legítima** (art. 549: doação inoficiosa é nula na parte excedente; art. 1.846: 50% do patrimônio aos herdeiros necessários); colação (arts. 2.002 ss.) ou dispensa expressa da colação (art. 2.005); fraude contra credores |
+| **Cláusulas restritivas** | CC arts. 1.848 (necessidade de justa causa para gravar a legítima) e 1.911 | Inalienabilidade, impenhorabilidade e **incomunicabilidade** (protege contra o regime de bens do donatário) | Justa causa obrigatória para gravar a legítima |
+| **Cláusula de reversão** | CC art. 547 | Os bens voltam ao doador se ele sobreviver ao donatário | Não pode beneficiar terceiros |
+| **Acordo de sócios e protocolo familiar** | LSA art. 118; CC | Regras de entrada de herdeiros, sucessão na gestão, *buy-sell*, *lock-up* | Não pode dispor de herança de pessoa viva (art. 426, *pacta corvina*) ⚠️ PL 4/2025 propõe flexibilizar |
+| **Testamento** | CC arts. 1.857 ss. | Dispõe da parte disponível (50%) e de cláusulas restritivas | Inventário obrigatório. **Inventário extrajudicial com testamento** é admitido (Resolução CNJ 571/2024 alterou a Resolução 35/2007, inclusive com herdeiros menores, sob condições) |
+| **Previdência privada (PGBL/VGBL)** | Lei 11.196/2005; LC 109/2001 | Liquidez imediata; fora do inventário | ITCMD em discussão. **STF, Tema 1214 (2024 ⚠️):** não incide ITCMD sobre o repasse de PGBL e VGBL aos beneficiários. A LC 227/2026 pode ter alterado isso para o VGBL ⚠️ verificar |
+| **Seguro de vida** | CC art. 794 | Não é herança; não sofre ITCMD | — |
+| **Fundos exclusivos e *offshores*** | Lei 14.754/2023 | — | *Come-cotas* em fundos exclusivos; tributação anual de *offshores* controladas (10% de IRPF sobre os lucros, a partir de 2024) e de *trusts* |
+| ***Trust*** | Lei 14.754/2023 (tratamento fiscal) | Reconhecimento fiscal | Não há regulação civil do *trust* no direito brasileiro ⚠️ |
+
+### 11.3 ITCMD e a Reforma (EC 132/2023 e LC 227/2026)
+
+- **EC 132/2023 (CF art. 155, §1º):**
+  - **progressividade obrigatória** em razão do valor do quinhão, do legado ou da doação (inciso VI);
+  - competência para bens móveis, títulos e créditos do **domicílio do *de cujus*** (e não do local do inventário);
+  - competência para heranças e doações do exterior (lei complementar);
+  - não incidência em transmissões e doações a instituições sem fins lucrativos de relevância pública e social.
+- **Alíquota máxima:** **8%** (Resolução do Senado 9/1992). Há propostas para elevá-la ⚠️.
+- **LC 227/2026 (normas gerais de ITCMD, segundo fontes secundárias, arts. 152 a 155 ⚠️ conferir numeração):**
+  - **base de cálculo de quotas e ações não negociadas em bolsa:** metodologia tecnicamente idônea que reflita o **valor de mercado**, com **piso no patrimônio líquido ajustado a valor de mercado** dos ativos e passivos, **acrescido do fundo de comércio** (intangíveis). Acaba a prática de avaliar pelo valor contábil histórico das holdings;
+  - progressividade aplicada **por herdeiro ou donatário** (sobre o quinhão recebido), e não sobre o monte;
+  - os estados podem **somar doações sucessivas** entre as mesmas partes em prazo definido em lei estadual;
+  - venda de quotas abaixo do valor de mercado entre partes relacionadas pode ser **requalificada como doação**;
+  - tributação de PGBL e VGBL e de *trusts* ⚠️ verificar.
+- **Eficácia:** depende de adequação das **leis estaduais** e observa a anterioridade anual e nonagesimal. Em 2026, vários estados ainda aplicavam o regime antigo, daí a "janela" para doações de quotas pelo valor patrimonial contábil, conforme a lei local.
+- ⚠️ **Verificar a lei estadual vigente** antes de cada doação: SP (Lei 10.705/2000, alíquota de 4%, com projetos de progressividade); RJ (progressiva até 8%); MG; PR; SC etc.
+
+### 11.4 Proteção patrimonial lícita: limites
+
+**O que é lícito:**
+- segregar riscos por sociedades distintas, com substância econômica;
+- holding constituída **antes** de qualquer dívida ou risco concreto;
+- regime de bens (pacto antenupcial com separação convencional);
+- bem de família (Lei 8.009/1990, legal; CC arts. 1.711–1.722, convencional, até 1/3 do patrimônio líquido);
+- seguro, previdência e planejamento sucessório;
+- cláusulas de incomunicabilidade e impenhorabilidade em doações.
+
+**Limites e riscos:**
+
+| Instituto | Base | Requisitos e efeitos | Prazo |
+|---|---|---|---|
+| **Fraude contra credores** | CC arts. 158–165 | Ato de disposição gratuita ou onerosa que reduz o devedor à insolvência. Basta o *eventus damni* nos atos gratuitos. Nos onerosos, exige-se *consilium fraudis* (insolvência notória ou conhecida do adquirente, art. 159). Ação pauliana. Efeito: **anulabilidade**, na letra do CC (o STJ trata como ineficácia relativa em certos casos). Legitimidade apenas de credores **anteriores** ao ato (art. 158, §2º) | Decadência de 4 anos (art. 178, II) |
+| **Fraude à execução** | CPC art. 792; CTN art. 185 | Alienação na **pendência de ação** capaz de reduzir o devedor à insolvência, ou com averbação da ação, penhora ou hipoteca judiciária na matrícula. **Súmula 375 STJ:** o reconhecimento exige registro da penhora **ou** prova de má-fé do terceiro adquirente. Efeito: **ineficácia** perante o exequente, reconhecida nos próprios autos. **Tributário (CTN art. 185, LC 118/2005):** presume-se fraudulenta a alienação após a **inscrição em dívida ativa**, sem necessidade de prova de má-fé, salvo reserva de bens suficientes. **STJ, Tema 290** (REsp 1.141.990): a Súmula 375 não se aplica à execução fiscal | — |
+| **Concentração de matrículas** | Lei 13.097/2015, arts. 54–58 | O adquirente de boa-fé é protegido se não houver averbação na matrícula (ação, penhora, restrição). Por isso, a **due diligence de matrícula é crucial**, mas a certidão de distribuidores continua recomendável (CTN art. 185 e relações trabalhistas) | — |
+| **Simulação** | CC art. 167 | Nulidade absoluta; não convalesce. Exemplos: holding sem substância e "venda" a parente sem pagamento | Imprescritível (art. 169) |
+| **Desconsideração inversa** | CC art. 50, §3º; CPC art. 133, §2º | Alcança bens da PJ por dívidas do sócio que esvaziou seu patrimônio pessoal. Aplicação frequente em direito de família | — |
+| **Crimes** | CP art. 179 (fraude à execução); Lei 11.101/2005, art. 168 (fraude a credores na falência); Lei 8.137/1990 | Penal | — |
+| **Indisponibilidade** | CTN art. 185-A; CNIB (Provimento CNJ 39/2014, hoje no Código Nacional de Normas) | Bloqueio de bens em execução fiscal ou improbidade | — |
+
+**Regra de ouro para o agente:** a proteção patrimonial é legítima quando é **preventiva, documentada, com propósito negocial ou familiar e sem dívidas exigíveis ou ações em curso capazes de levar à insolvência**. Planejar depois do problema é ineficaz e pode configurar crime.
+
+**Fontes:** https://www.gov.br/drei/pt-br · https://www.gov.br/empresas-e-negocios/pt-br/redesim · https://www.planalto.gov.br/ccivil_03/leis/l8934.htm · https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11598.htm · https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm · https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13097.htm · https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14754.htm · https://www.machadomeyer.com.br/pt/inteligencia-juridica/publicacoes-ij/planejamento-sucessorio/itcmd-principais-mudancas-trazidas-pela-lc-227-26 · https://www.barbieriadvogados.com/lc-227-itcmd-ibs/ · https://legalbr.com.br/holding-familiar-itcmd-2026/
+
+---
+
+## 12. Checklists Operacionais
+
+### 12.1 Due diligence jurídica (M&A, investimento, crédito estruturado)
+
+**A. Societário e governança**
+- [ ] Atos constitutivos e todas as alterações (certidão simplificada e de inteiro teor da Junta); cadeia de titularidade das quotas ou ações (livros de registro e transferência na S.A.)
+- [ ] Capital integralizado? Ônus sobre quotas ou ações (penhor, alienação fiduciária, usufruto)?
+- [ ] Acordos de sócios ou acionistas; opções, *vesting*, mútuos conversíveis e outros instrumentos dilutivos (LC 182/2021)
+- [ ] Poderes de administradores, procurações vigentes, atas de aprovação de atos relevantes
+- [ ] Estrutura do grupo, participações e beneficiário final (IN RFB 2.119/2022); capital estrangeiro (RDE-IED/BACEN, Lei 14.286/2021)
+- [ ] Restrições setoriais à participação estrangeira (terras rurais: Lei 5.709/1971; mídia; aviação; saúde; segurança)
+
+**B. Tributário**
+- [ ] Certidões: CND/CPEN federal (RFB/PGFN), estadual, municipal, FGTS (CRF), CNDT (trabalhista)
+- [ ] Regime tributário e enquadramentos; ECD, ECF, EFD, DCTFWeb; parcelamentos e transações em curso
+- [ ] Autos de infração, processos no CARF e em tribunais administrativos estaduais (TIT/SP etc.), execuções fiscais
+- [ ] Créditos tributários (Tema 69, Tema 118, PER/DCOMP) e sua realizabilidade; riscos de glosa
+- [ ] Benefícios fiscais de ICMS (convalidação pela LC 160/2017); subvenções (Lei 14.789/2023)
+- [ ] Planejamentos agressivos (ágio, JCP, pejotização, segregação de atividades)
+- [ ] Coisa julgada favorável afetada pelos Temas 881/885
+- [ ] Preparação para a Reforma (IBS/CBS, *split payment*, contratos)
+
+**C. Trabalhista e previdenciário**
+- [ ] Ações (polos ativo e passivo, valores, fase, provisão), autos de infração do MTE, TACs com o MPT
+- [ ] eSocial, folha, horas extras, cargos de confiança, PLR, prêmios, benefícios
+- [ ] Terceirizados e PJs (Tema 1389); representantes comerciais; estagiários (Lei 11.788/2008)
+- [ ] Saúde e segurança: PGR com riscos psicossociais (NR-1), PCMSO, laudos, CAT, CIPA, Lei 14.457/2022
+- [ ] Igualdade salarial (relatório da Lei 14.611/2023, se a empresa tiver 100 ou mais empregados); cotas PcD e de aprendizes
+- [ ] Planos de *stock options*; acordos coletivos e enquadramento sindical
+
+**D. Contratos**
+- [ ] Contratos relevantes (top clientes e fornecedores, financiamentos, locações, licenças de propriedade intelectual e de TI)
+- [ ] Cláusulas de *change of control*, exclusividade, não concorrência, MFN, multas, limitação de responsabilidade
+- [ ] *Covenants* financeiros e vencimento antecipado (*cross-default*); garantias prestadas (avais, fianças, alienações fiduciárias)
+- [ ] Contratos com partes relacionadas (preço de mercado)
+- [ ] Contratos públicos (Lei 14.133/2021), reequilíbrio, sanções, impedimentos (CEIS/CNEP)
+
+**E. Contencioso cível, consumidor e arbitragem**
+- [ ] Ações cíveis, consumeristas (volume e reclamações no Procon e Consumidor.gov), arbitragens, ações coletivas e civis públicas
+- [ ] Classificação de risco (provável, possível, remoto) e provisões
+
+**F. Regulatório, ambiental e imobiliário**
+- [ ] Licenças de operação, AVCB (Bombeiros), alvarás, licenças ambientais (LP, LI, LO), outorgas, CAR
+- [ ] Passivo ambiental (*propter rem*, Súmula 623 STJ), áreas contaminadas
+- [ ] Imóveis: matrícula atualizada (ônus, averbações, Lei 13.097/2015), certidões do proprietário, IPTU, *habite-se*, cláusula de vigência nas locações, renovatórias
+
+**G. Propriedade intelectual e TI**
+- [ ] Marcas e patentes (INPI: titularidade, vigência, oposições, caducidade); domínios; software (titularidade e cessões de desenvolvedores)
+- [ ] Licenças de terceiros e de *open source* (GPL e *copyleft*); segredos de negócio; NDAs
+
+**H. Proteção de dados e cibersegurança**
+- [ ] Encarregado nomeado e publicado; ROPA; políticas; RIPD; bases legais
+- [ ] Incidentes nos últimos 5 anos (registro da Resolução CD/ANPD 15/2024); processos na ANPD; ações judiciais
+- [ ] Contratos com operadores (DPA); transferências internacionais com cláusulas-padrão (Resolução CD/ANPD 19/2024)
+- [ ] Segurança (pentest, ISO, MFA, *backup*); uso de IA e dados de clientes
+
+**I. Compliance e anticorrupção**
+- [ ] Programa de integridade (Decreto 11.129/2022); canal de denúncias; investigações internas
+- [ ] Interação com o setor público, agentes e despachantes; doações e patrocínios; PEPs
+- [ ] CEIS, CNEP, CEPIM, listas de sanções (OFAC, ONU); mídia negativa; acordos de leniência ou TACs
+- [ ] PLD/FT (se for setor obrigado do art. 9º da Lei 9.613/1998)
+
+**J. Antitruste**
+- [ ] Faturamentos para teste de notificação ao CADE (art. 88); sobreposições horizontais e verticais
+- [ ] Protocolos de *gun jumping* e *clean team*; processos no CADE
+
+**Saída:** relatório *red flag* com matriz (achado, risco, probabilidade, impacto em R$, recomendação: preço, *escrow*, indenização específica, condição precedente, *covenant*, ou abandono da operação).
+
+### 12.2 Revisão de contrato (checklist rápido)
+
+1. **Partes:** qualificação, poderes de assinatura (contrato social e procuração), grupo econômico, garantidores
+2. **Natureza e lei:** típico ou atípico; consumidor ou paritário (art. 421-A); lei especial (representação, franquia, locação, CDC)
+3. **Objeto e escopo:** descrição precisa, entregáveis, SLA, critérios de aceite, mudança de escopo (*change order*)
+4. **Preço:** forma, prazos, reajuste (índice, 12 meses), tributos (*gross-up*, Reforma Tributária e cláusula de reequilíbrio para IBS e CBS), retenções
+5. **Prazo:** vigência, renovação automática, aviso prévio, art. 473, par. único (investimentos)
+6. **Obrigações e garantias:** declarações, *performance bond*, seguro
+7. **Inadimplemento:** mora, cláusula penal (limite do art. 412, redução do art. 413), juros (Lei 14.905/2024), cláusula resolutiva expressa, *cure period*
+8. **Responsabilidade:** *cap*, exclusão de danos indiretos, *carve-outs*, indenidade, seguro
+9. **Força maior e *hardship*:** definição, notificação, efeitos
+10. **Rescisão:** hipóteses, efeitos pós-término (transição, devolução de dados, sobrevivência de cláusulas)
+11. **Propriedade intelectual e confidencialidade:** titularidade, licenças, prazos, segredos
+12. **LGPD:** papéis (controlador e operador), DPA, incidentes (3 dias úteis), transferência internacional (cláusulas-padrão)
+13. **Compliance:** anticorrupção, sanções internacionais, trabalho escravo e infantil, ESG, auditoria
+14. **Trabalhista:** ausência de subordinação, terceirização (Lei 6.019/1974), indenidade
+15. **Cessão e *change of control***
+16. **Comunicações:** endereços, e-mail válido como notificação
+17. **Solução de disputas:** foro (pertinência, Lei 14.879/2024) ou arbitragem (câmara, sede, idioma, número de árbitros, custos, cláusula cheia); mediação prévia
+18. **Formalização:** assinatura eletrônica (modalidade adequada e trilha de auditoria), testemunhas dispensadas para título executivo (CPC art. 784, §4º), anexos rubricados, reconhecimento de firma ou registro quando exigidos (por exemplo, averbação da locação na matrícula, INPI para transferência de tecnologia)
+19. **Riscos tributários do contrato:** natureza da receita (serviço, licença, locação), retenções (IRRF, CSRF, INSS 11%), remessas ao exterior (IRRF, CIDE, IOF), preços de transferência (Lei 14.596/2023, novo regime OCDE)
+20. **Assimetria e abusividade:** cláusulas que podem cair em revisão judicial (contratos de adesão, arts. 423 e 424)
+
+### 12.3 Gestão de risco jurídico (programa contínuo)
+
+| Pilar | Ações | Periodicidade |
+|---|---|---|
+| **Mapa de riscos** | Inventário por área (tributário, trabalhista, regulatório, contratual, dados, compliance); matriz de probabilidade × impacto; *owners* | Anual, com revisão trimestral |
+| **Calendário de obrigações** | Prazos societários (AGO em até 4 meses do fim do exercício: CC art. 1.078 e LSA art. 132), relatório de transparência salarial (março e setembro), PGR/NR-1, renovações de licenças, marcas (10 anos), renovatórias (janela de 1 ano a 6 meses), certidões | Contínuo, com alertas |
+| **Contencioso** | Base de processos com provisões (CPC 25), *aging*, teses repetitivas, acordos estratégicos, gestão de depósitos judiciais e garantias | Mensal |
+| **Monitoramento normativo e jurisprudencial** | Temas STF/STJ pendentes (seção 13), Reforma Tributária, NR-1, ANPD, CADE, editais de transação | Semanal ou quinzenal |
+| **Contratos** | Modelos padronizados, alçadas de aprovação, CLM (*contract lifecycle*), *playbook* de negociação | Contínuo |
+| **Governança** | Atas, livros, procurações (inventário e vencimentos), conflitos de interesse, D&O | Trimestral |
+| **Compliance** | Treinamentos, due diligence de terceiros, canal de denúncias, investigações, *reporting* ao conselho | Contínuo; relatório semestral |
+| **Dados e cibersegurança** | Plano de resposta a incidentes (tempo de 3 dias úteis), simulações, revisão de DPAs, inventário de IA | Semestral |
+| **Trabalhista preventivo** | Auditoria de PJs e terceirizados, jornada, saúde mental (NR-1), igualdade salarial | Semestral |
+| **Tributário preventivo** | Revisão de créditos (recuperação), teses (ajuizamento antes da modulação, como no Tema 118), *compliance* acessório, preparação para IBS/CBS | Trimestral |
+| **Crise** | Protocolos para busca e apreensão, fiscalização, vazamento de dados, recuperação judicial (sinais: *covenants*, fluxo de caixa) | Testes anuais |
+
+**Indicadores (KPIs):** contingência total e provisão; taxa de êxito; custo jurídico por processo; tempo de ciclo de contratos; número de incidentes de dados; percentual de terceiros diligenciados; treinamentos concluídos; créditos tributários recuperados.
+
+**Fontes:** compilação a partir das normas citadas nas seções anteriores. https://www.gov.br/cade/pt-br · https://www.gov.br/anpd/pt-br · https://www.gov.br/pgfn/pt-br · https://www.gov.br/cgu/pt-br
+
+---
+
+## 13. Quadro-resumo de Incertezas e Pautas a Monitorar
+
+| # | Assunto | O que verificar | Fonte primária para checar |
+|---|---|---|---|
+| 1 | **Tema 118 STF** (ISS no PIS/Cofins) | Modulação dos efeitos (embargos, ata) e data de corte | portal.stf.jus.br, RE 592.616 |
+| 2 | **Tema 1389 STF** (pejotização) | Julgamento do mérito, tese, efeitos da suspensão parcial (jun/2026) | portal.stf.jus.br, ARE 1.532.603 |
+| 3 | **Tema 1291 STF** (plataformas) | Nova data de pauta após a convenção da OIT | RE 1.446.336 |
+| 4 | **NR-1** (psicossocial) | Status da liminar da CNSaúde no STF e alcance das autuações | gov.br/trabalho-e-emprego; STF |
+| 5 | **LC 227/2026** (ITCMD) | Numeração dos artigos; leis estaduais adaptadas; anterioridade; PGBL/VGBL e *trusts* | planalto.gov.br (LC 227/2026); legislação estadual |
+| 6 | **Contencioso do IBS** (CGIBS) | Número de instâncias, câmaras e uniformização; vetos | LC 227/2026 |
+| 7 | **CADE** | Eventual nova portaria com limites de notificação acima de R$ 750 milhões e R$ 75 milhões | gov.br/cade |
+| 8 | **Lei 14.789/2023** (subvenções) | ADIs 7604, 7622 e 7751; crédito presumido após a lei | STF; STJ |
+| 9 | **ADI 7548** (voto de qualidade no CARF) | Julgamento | STF |
+| 10 | **Tema 1209 STJ** (IDPJ em execução fiscal) | Julgamento | stj.jus.br, repetitivos |
+| 11 | **Tema 1379 STJ** (stock options e contribuição) | Publicação do acórdão e redação da tese | stj.jus.br |
+| 12 | **Tema 1067 STF** (PIS/Cofins nas próprias bases) | Pauta | STF |
+| 13 | **PL 2338/2023** (IA) | Parecer na Comissão Especial e votação na Câmara | camara.leg.br |
+| 14 | **PL 4/2025** (Código Civil) | Sub-relatórios (jan/2027) e parecer (maio/2027) | senado.leg.br |
+| 15 | **PL 3/2024** (falência, gestor fiduciário) | Tramitação no Senado | senado.leg.br |
+| 16 | **ANPD** | Número da lei de conversão da MP 1.317/2025; novo regulamento sancionador; adequação UE-Brasil | gov.br/anpd; planalto.gov.br |
+| 17 | **Lei 15.270/2025** (IR: dividendos e renda mínima) | Número, texto e regulamentação (retenção de 10% sobre dividendos acima de R$ 50 mil por mês) | planalto.gov.br; RFB |
+| 18 | **Regularidade fiscal na RJ** | Uniformização entre a 3ª e a 4ª Turma do STJ | stj.jus.br |
+| 19 | **Tema 487 STF** (multa isolada de 60%) | Tese definitiva | STF |
+| 20 | **Resolução CNJ 547/2024** | Texto consolidado após a Resolução CNJ 617/2025 e o Tema 1428 | atos.cnj.jus.br |
+
+**Diretriz para o agente:**
+1. Sempre informe a data-base e recomende conferir a vigência dos itens marcados com ⚠️.
+2. Diferencie **tese vinculante** (repercussão geral, repetitivo, súmula vinculante, controle concentrado: CPC art. 927) de **precedente persuasivo**.
+3. Em teses tributárias, avalie a **modulação** e o **momento do ajuizamento**: ajuizar antes do julgamento costuma preservar o direito.
+4. Em questões estaduais e municipais (ICMS, ISS, ITCMD, ITBI, licenças), peça o estado e o município do cliente.
+5. Nunca recomende proteção patrimonial após o surgimento de dívidas ou litígios.
+6. Indique quando o caso exige advogado habilitado (OAB) para atuação formal.
+
+**Fontes:** https://portal.stf.jus.br/jurisprudenciaRepercussao/ · https://processo.stj.jus.br/repetitivos/temas_repetitivos/ · https://www.camara.leg.br/ · https://www25.senado.leg.br/web/atividade/materias/-/materia/166998 · https://www.jota.info/legislativo/senado-adia-avanco-da-reforma-do-codigo-civil-mas-preve-relatorios-parciais-em-janeiro · https://noticias.stf.jus.br/?p=164310 · https://atos.cnj.jus.br/atos/detalhar/5455
+
+---
+
+*Fim do documento. Data-base: 22/11/2026.*
