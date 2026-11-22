@@ -579,7 +579,7 @@ Requisitos cumulativos usuais:
 
 | Instituição | Regras vigentes | Notas |
 |---|---|---|
-| **CIETAC** (Pequim, com sub-comissões; inclusive CIETAC South America — São Paulo? ⚠️ CIETAC tem escritório na América do Sul) | Regras de **2024** (vigência 01/01/2024) | Maior volume; aceita idioma inglês/português por acordo; árbitros estrangeiros no painel |
+| **CIETAC** (Pequim, com sub-comissões regionais na China e escritórios no exterior ⚠️ verificar presença na América do Sul) | Regras de **2024** (vigência 01/01/2024) | Maior volume; aceita idioma inglês/português por acordo; árbitros estrangeiros no painel |
 | **SHIAC** (Xangai) | Regras de 2024 | Forte em comércio e FTZ |
 | **SCIA** (Shenzhen) | Regras 2022 | Ligações com HK |
 | **HKIAC** (Hong Kong) | Regras **2024** | Neutralidade; **Arranjo de 2019** permite medidas cautelares em tribunais da China continental para arbitragens HKIAC (único caso fora da China continental); execução recíproca HK–continente (Arranjo de 1999 + suplemento 2020) |
@@ -618,5 +618,212 @@ Requisitos cumulativos usuais:
 - CISG (status): https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status
 - Incoterms 2020 (ICC): https://iccwbo.org/business-solutions/incoterms-rules/
 - NNN (China IP SME Helpdesk – UE): https://intellectual-property-helpdesk.ec.europa.eu/regional-helpdesks/china-ip-sme-helpdesk_en
+
+---
+
+## 9. Propriedade intelectual
+
+### 9.1 Marcas — "first-to-file"
+
+- **Trademark Law** (1982; 4ª emenda 2019, vigência 01/11/2019). ⚠️ Projeto de revisão abrangente publicado pela CNIPA em 2023 e em tramitação no NPCSC (2025) — verificar promulgação.
+- **Princípio first-to-file:** quem registra primeiro é o titular, com exceções limitadas (marca notoriamente conhecida, art. 13; uso prévio com certa influência, art. 32; má-fé de agente/representante, art. 15; **pedidos de má-fé sem intenção de uso, art. 4**, introduzido em 2019). Litígios para recuperar marca "sequestrada" (*trademark squatting*) são longos e caros.
+- **Recomendação:** **registrar a marca na China ANTES** de expor o produto a fornecedores, distribuidores ou feiras (Canton Fair) e antes de anunciar no mercado.
+  - Registrar a marca **em caracteres latinos** + **versão em chinês** (transliteração fonética e/ou tradução) — consumidores e o mercado criarão um nome chinês de qualquer forma.
+  - Cobrir a classe principal **e subclasses** relevantes (a CNIPA examina por **subclasse** da Classificação de Nice adaptada); considerar classes defensivas (ex. classe de fabricação e de venda).
+  - Via **nacional (CNIPA)** ou **Protocolo de Madri** (Brasil aderiu em **02/10/2019**, permite designar a China a partir do pedido no INPI).
+- **Prazos e custos:** exame ~ 6–9 meses ⚠️; publicação para oposição **3 meses**; validade **10 anos**, renovável; **não uso por 3 anos consecutivos** → cancelamento (art. 49).
+- **Lojas online e alfândega:** registro facilita *takedown* em Alibaba/Taobao/JD/Pinduoduo e registro aduaneiro.
+
+### 9.2 Patentes e desenhos
+
+- **Patent Law** (4ª emenda, **vigência 01/06/2021**) e Regulamento de Implementação revisado (vigência 20/01/2024).
+- **Tipos e prazos:** invenção **20 anos** (com ajuste de prazo por atraso no exame e por aprovação regulatória de medicamentos, até 5 anos); modelo de utilidade **10 anos** (sem exame substantivo — rápido e muito usado por concorrentes chineses); desenho industrial **15 anos** (desde 2021; desenho parcial admitido).
+- **Danos punitivos** de **1 a 5 vezes** em infração dolosa grave; danos estatutários de RMB **30.000 a 5 milhões**.
+- **Primeiro depósito na China / exame de confidencialidade:** invenções **concluídas na China** que se pretenda patentear no exterior exigem **exame de sigilo prévio** pela CNIPA (art. 19) — relevante para P&D feito na WFOE.
+- **Prioridade CUP:** 12 meses (invenção/utilidade), 6 meses (desenho). Brasil e China são membros do **PCT**.
+- **Tribunais de PI:** Tribunal de PI da SPC (apelações nacionais de patentes), tribunais de PI em Pequim, Xangai, Guangzhou, Hainan.
+
+### 9.3 Direitos autorais, segredos e software
+
+- **Copyright Law** (3ª emenda, vigência 01/06/2021); registro voluntário na CPCC é útil como prova (software, desenhos).
+- **Segredo comercial:** **Anti-Unfair Competition Law** (revisada em 2025, vigência **15/10/2025** ⚠️) + Civil Code; inversão do ônus da prova em certas situações (art. 32 AUCL 2019). Necessidade de medidas de confidencialidade demonstráveis.
+- **Contratos de tecnologia:** *Regulations on Technology Import and Export Administration* (rev. 2020): tecnologias "livres" exigem apenas **registro do contrato** (necessário para pagamento de royalties ao exterior e benefícios fiscais); "restritas" exigem licença; "proibidas" vedadas. Catálogo de tecnologias de exportação proibida/restrita revisado em 2023 e 2025 (inclui processamento de terras raras e baterias ⚠️).
+
+### 9.4 Proteção alfandegária
+
+- **Regulations on Customs Protection of IPR** (rev. 2018) — **registro (recordal) na GACC** de marcas, patentes e direitos autorais (validade alinhada ao direito, renovável a cada 10 anos), que permite à alfândega **apreender mercadorias infratoras na exportação** (essencial: a GACC fiscaliza exportações, onde nasce a contrafação destinada ao Brasil).
+- Fluxo: recordal online → alfândega detecta → notifica titular → titular confirma e presta garantia → apreensão e processo administrativo.
+
+**Fontes (seção 9):**
+- CNIPA (inglês): https://english.cnipa.gov.cn/
+- China IP SME Helpdesk (UE) — guias de marcas e NNN: https://intellectual-property-helpdesk.ec.europa.eu/regional-helpdesks/china-ip-sme-helpdesk_en
+- WIPO Lex – China: https://www.wipo.int/wipolex/en/members/profile/CN
+- Protocolo de Madri – Brasil (INPI): https://www.gov.br/inpi/pt-br/servicos/marcas/protocolo-de-madri
+- GACC IPR recordal: http://english.customs.gov.cn/
+
+---
+
+## 10. Dados pessoais e cibersegurança
+
+### 10.1 Marco legal
+
+| Norma | Vigência | Pontos-chave |
+|---|---|---|
+| **Cybersecurity Law (CSL)** | 01/06/2017; **emenda adotada em 28/10/2025, vigência 01/01/2026** | Proteção de redes, **MLPS** (proteção em níveis), operadores de infraestrutura crítica (CIIO) com localização de dados. A emenda de 2025: multas elevadas (até **RMB 10 milhões** em casos graves), multa sem advertência prévia, alcance extraterritorial ampliado, disposições sobre IA ⚠️ |
+| **Data Security Law (DSL)** | 01/09/2021 | Classificação de dados; **"dados importantes"** e "dados centrais"; proibição de fornecer dados armazenados na China a **autoridades judiciais/policiais estrangeiras** sem aprovação (art. 36); multas até RMB 10 milhões (dados centrais: até RMB 10 mi + suspensão) |
+| **Personal Information Protection Law (PIPL)** | 01/11/2021 | Análoga à LGPD/GDPR: bases legais (consentimento, contrato, **gestão de RH**, obrigação legal etc.); **consentimento separado** para dados sensíveis e transferência internacional; DPO para grandes volumes; **representante na China** para controladores estrangeiros que tratam dados de pessoas na China (art. 53); multas até **RMB 50 milhões ou 5% do faturamento** do ano anterior |
+| **Network Data Security Management Regulations** (State Council) | **01/01/2025** | Detalham obrigações de "dados importantes", relatórios anuais de avaliação de risco, plataformas |
+| **Measures for PI Protection Compliance Audits** (CAC) | **01/05/2025** | Auditoria de conformidade periódica (obrigatória a cada 2 anos para quem trata dados de > 10 milhões de pessoas ⚠️) |
+| **Measures for Certification of Cross-Border PI Transfer** (CAC/SAMR) | **01/01/2026** | Terceira via de exportação de dados; certificação por entidade credenciada, validade 3 anos; norma técnica GB/T 46068-2025 (vigência 01/03/2026) |
+
+### 10.2 Transferência internacional de dados — regras flexibilizadas de 2024
+
+**Provisions on Promoting and Regulating Cross-Border Data Flows** (CAC, **22/03/2024**, vigência imediata), que prevalecem sobre normas anteriores conflitantes:
+
+| Situação (dados exportados por não-CIIO, contagem acumulada desde 1º/jan do ano) | Mecanismo exigido |
+|---|---|
+| Dados coletados **fora** da China e apenas processados na China (sem dados de chineses/dados importantes) | **Isento** |
+| **Necessário para contrato** com o titular (comércio eletrônico transfronteiriço, remessas, reservas, vistos, logística) | **Isento** |
+| **Gestão de RH** transfronteiriça conforme regulamento interno/contrato coletivo | **Isento** |
+| Emergências (vida, saúde, patrimônio) | Isento |
+| PI não sensível de **< 100.000 pessoas** | **Isento** |
+| PI não sensível de **100.000 a < 1 milhão** de pessoas **ou** PI sensível de **< 10.000** pessoas | **Contrato-padrão (SCC) registrado na CAC provincial** ou **certificação** |
+| PI não sensível de **≥ 1 milhão** de pessoas, PI sensível de **≥ 10.000** pessoas, **dados importantes**, ou CIIO | **Avaliação de segurança da CAC** (validade 3 anos) |
+
+- **FTZs** podem editar **"listas negativas" de dados** (ex. Xangai Lin-gang, Pequim, Tianjin) — o que não estiver na lista pode sair livremente.
+- **Obrigações remanescentes mesmo nas isenções:** aviso e **consentimento separado** do titular, **avaliação de impacto (PIIA)** registrada por 3 anos, contrato com o receptor.
+
+### 10.3 Impacto para empresas brasileiras
+
+- **WFOE que envia dados de empregados ao Brasil** (folha, avaliação, RH global): em regra isenta por "gestão de RH", mas exige aviso/consentimento separado e PIIA.
+- **E-commerce/marketplace** que vende a consumidores chineses ou **importador brasileiro** que recebe dados de clientes chineses: verificar volume e se o controlador estrangeiro precisa de **representante na China** (PIPL art. 53).
+- **Fabricantes contratados (OEM)**: não enviar a fornecedores dados pessoais desnecessários; atenção a **dados de mapeamento, geográficos, de veículos conectados, de saúde e genéticos** (podem ser "dados importantes").
+- **Pedidos de autoridades brasileiras** (Receita, Judiciário, ANPD) por dados armazenados na China: **DSL art. 36 e PIPL art. 41** exigem aprovação chinesa — conflito de leis a gerir via tratados de auxílio judicial.
+- **LGPD (Brasil):** transferência Brasil → China exige mecanismo do art. 33 LGPD (cláusulas-padrão da **Resolução CD/ANPD 19/2024**); a China não tem decisão de adequação.
+- **Equipamentos e software de TI chineses:** risco reputacional/regulatório em contratos com governo ou setores regulados no Brasil (e nos EUA — FCC Covered List).
+
+**Fontes (seção 10):**
+- Provisions 2024 (tradução): https://www.chinalawtranslate.com/en/%E4%BF%83%E8%BF%9B%E5%92%8C%E8%A7%84%E8%8C%83%E6%95%B0%E6%8D%AE%E8%B7%A8%E5%A2%83%E6%B5%81%E5%8A%A8%E8%A7%84%E5%AE%9A/ ; https://www.hoganlovells.com/en/publications/china-finalizes-its-provisions-to-promote-and-regulate-cross-border-data-transfers ; https://cms.law/en/chn/legal-updates/china-relaxes-cross-border-data-transfer-rules-with-new-provisions
+- Emenda CSL 2026: https://www.china-briefing.com/news/china-cybersecurity-law-amendment/ ; https://www.mondaq.com/china/new-technology/1729180/
+- Certificação 2026: https://www.woodburnglobal.com/post/china-cross-border-data-transfer-rules-and-the-new-certification-pathway
+- CAC: http://www.cac.gov.cn/ ; ANPD Res. 19/2024: https://www.gov.br/anpd/
+
+---
+
+## 11. Comércio Brasil–China (importação e exportação)
+
+### 11.1 Panorama bilateral
+
+- **Relações diplomáticas desde 15/08/1974**; parceria estratégica (1993) e **parceria estratégica global** (2012). Em **novembro/2024** (visita de Estado de Xi Jinping a Brasília) as relações foram elevadas a "**comunidade Brasil–China de futuro compartilhado**", com ~37 atos e "sinergias" entre a Belt and Road Initiative e programas brasileiros (Nova Indústria Brasil, PAC, Rotas de Integração) — **o Brasil não aderiu formalmente à BRI**. Em **maio/2025** (Fórum China–CELAC, Pequim) nova visita de Lula com acordos de investimento (energia, automotivo, tecnologia) e renovação do swap cambial.
+- **Comércio 2025 (recorde):** corrente ≈ **USD 171 bilhões** (+8,2%); exportações brasileiras ≈ **USD 100,0 bi**; importações ≈ **USD 70,9 bi**; **superávit ≈ USD 29,1 bi** (≈ 43% do superávit total brasileiro); China ≈ 27% da corrente de comércio do Brasil. Exportações concentradas em **soja, minério de ferro, petróleo, carne bovina, celulose, açúcar, frango, algodão, milho**; importações em **máquinas, eletroeletrônicos, químicos, veículos elétricos, painéis solares, aço, têxteis**.
+- **COSBAN** (Comissão Sino-Brasileira de Alto Nível de Concertação e Cooperação) — principal foro bilateral; câmara de compensação em moedas locais desde 2023.
+- **Isenção recíproca de vistos** de até 30 dias (ver 7.5).
+- **Investimento chinês no Brasil:** energia (State Grid, CTG, SPIC), automotivo (**BYD** em Camaçari-BA; GWM em Iracemápolis-SP; Geely/Renault no Paraná ⚠️), mineração, agro, tecnologia.
+
+### 11.2 Importação no Brasil de produtos chineses
+
+**Habilitação e sistemas:**
+- **RADAR (Habilitação no Siscomex)** — modalidades: **Expressa** (até USD 50.000 por semestre ⚠️), **Limitada** (até USD 150.000 por semestre ⚠️) e **Ilimitada** (IN RFB 1.984/2020; valores atualizados — verificar).
+- **Portal Único Siscomex / DUIMP** (Declaração Única de Importação) substituindo a DI em fases (2024–2026 ⚠️); **LPCO** (licenças, permissões, certificados) para produtos controlados (ANVISA, INMETRO, MAPA, ANATEL, Exército, IBAMA).
+- Classificação fiscal **NCM**; valoração aduaneira (Acordo de Valoração da OMC); **certificado de origem** relevante para antidumping.
+
+**Tributos na importação (regime vigente em 2026, antes da plena reforma):**
+
+| Tributo | Alíquota | Base / observação |
+|---|---|---|
+| **Imposto de Importação (II)** | TEC/Mercosul (0%–35%; média ~11–12%) + listas de exceção (LETEC, LEBIT-BK, desequilíbrios comerciais); **Ex-tarifários** (BK/BIT sem similar nacional) com 0% | Valor aduaneiro (CIF) |
+| **IPI** | Conforme TIPI (0%–300%; maioria 0%–15%) | VA + II. ⚠️ A partir de 2027 o IPI é zerado para quase todos os produtos (exceto concorrentes da ZFM) |
+| **PIS/Pasep-Importação** | **2,10%** (geral) | VA. **Extintos em 2027**, substituídos pela CBS |
+| **Cofins-Importação** | **9,65%** (geral; + 1 p.p. adicional para alguns NCMs ⚠️) | VA |
+| **CBS/IBS (teste 2026)** | **CBS 0,9% + IBS 0,1%** (destacados, compensáveis com PIS/Cofins; dispensa de recolhimento condicionada a obrigações acessórias ⚠️) | LC 214/2025. **2027:** CBS plena + Imposto Seletivo; **2029–2032:** transição ICMS/ISS → IBS; **2033:** regime pleno |
+| **ICMS-Importação** | 17%–23% (alíquota interna do estado do importador), "por dentro" | Base inclui II, IPI, PIS/Cofins, taxas; **alíquota interestadual de 4%** para revenda de importados (Res. Senado 13/2012) |
+| **AFRMM** | **8%** do frete marítimo (navegação de longo curso) | |
+| **Taxa Siscomex** | Por declaração/adição | |
+| **Direitos antidumping / compensatórios / salvaguardas** | Específicos por produto e exportador | Ver abaixo |
+
+**Medidas recentes relevantes para produtos chineses:**
+- **Antidumping:** segundo levantamento sobre a tabela do MDIC (atualizada em 04/09/2026), **~60 medidas em vigor atingem produtos chineses** (em ~41 a China é a única origem). Destaques de 2026: aços **pré-pintados** (China e Índia, Res. Gecex 849/2026, 5 anos), **laminados planos a frio** (Res. Gecex 854/2026), **laminados planos revestidos** (Res. Gecex 856/2026, mantida em out/2026), alterações no aço **GNO** (Res. Gecex 857/2026); agulhas hipodérmicas (855), etanolaminas (875), lisina (923); prorrogação de filtros cerâmicos (920). Investigações abertas: compressores recíprocos, ácido láctico, proteínas, vidros temperados (Circular SECEX 85/2026), cilindros de aço de alta pressão (Circular SECEX 86/2026). **Sempre consultar a tabela "Medidas de defesa comercial em vigor" do MDIC antes de cotar.**
+- **Aço — cotas-tarifa:** sistema de cotas com **II de 25%** acima da cota para diversos NCMs siderúrgicos (desde jun/2024, prorrogado e ampliado; Gecex jan/2026 elevou a 25% mais 9 NCMs por 12 meses ⚠️).
+- **Veículos eletrificados:** II de elétricos (BEV), híbridos (HEV) e plug-in (PHEV) subiu gradualmente (BEV: 10% jan/2024 → 18% jul/2024 → 25% jul/2025) e atingiu **35% em 01/07/2026**; kits **CKD** com 14% até 31/12/2026 e 35% a partir de 01/2027 ⚠️; cota com isenção para kits (≈ USD 463 mi por 6 meses ⚠️).
+
+**Remessa Conforme / "taxa das blusinhas" (compras internacionais por pessoa física):**
+- **Programa Remessa Conforme** (Portaria MF 612/2023 e IN RFB 2.146/2023): plataformas certificadas (Shein, AliExpress, Shopee, Temu etc.) recolhem tributos na compra; regime de tributação simplificada (RTS).
+- **Lei 14.902/2024 (Programa Mover)** criou o II de **20%** para remessas até **USD 50** (vigência 01/08/2024), e **60%** com dedução de **USD 30** entre USD 50,01 e USD 3.000.
+- **MP 1.357, de 12/05/2026:** **zerou o II** para compras de **até USD 50** por **pessoa física**, para uso próprio, em **plataformas certificadas no Remessa Conforme** (DIR registradas a partir de 12/05/2026); acima de USD 50 até USD 3.000: **60% com dedução de USD 30**; fora do programa: 60% sem dedução; remessas a CNPJ: regime geral. Autoriza o Ministério da Fazenda a fixar alíquotas por portaria. Conversão em lei reportada (**Lei 15.502/2026**, set/2026) ⚠️ verificar número e data no Planalto.
+- **ICMS** continua devido (17% ou **20%** conforme o estado, Convênio ICMS 81/2023 e alterações), calculado "por dentro".
+- **2027:** incidência de **CBS** (e Imposto Seletivo, se aplicável) sobre importações de remessas ⚠️ — acompanhar regulamentação.
+
+### 11.3 Exportação brasileira para a China
+
+- **Tarifas chinesas NMF** (sem FTA). Brasil não é beneficiário de preferências chinesas.
+- **Registro de fabricantes estrangeiros de alimentos — GACC:**
+  - **Decreto GACC 248** (vigência 01/01/2022) — sistema **CIFER** (*China Import Food Enterprise Registration*): 18 categorias de alto risco (carnes, lácteos, pescados, ovos, ninhos de andorinha, mel, grãos, oleaginosas, café em grão ⚠️ etc.) exigem **recomendação da autoridade competente do país exportador (MAPA)**; demais categorias por **autorregistro** do fabricante.
+  - **Decreto GACC 280** — **substituiu o 248 a partir de 01/06/2026**: registros existentes permanecem válidos até o vencimento; **validade de 5 anos** com renovação (procedimento simplificado/automático para várias categorias ⚠️); nova via de **listas recomendadas por países com acordos de cooperação**; número de registro informado na declaração aduaneira (código de licença 519); armazéns frigoríficos incluídos; aditivos e materiais em contato com alimentos fora do escopo. **Decreto 249** (segurança de alimentos importados/exportados) permanece.
+  - **Rotulagem em chinês** (GB 7718 e normas GB de rotulagem; nova norma de rotulagem de alimentos pré-embalados com vigência ⚠️ 2027).
+- **Protocolos sanitários e fitossanitários** bilaterais são necessários por produto (MAPA negocia; habilitação de **plantas frigoríficas** é por estabelecimento). Avanços 2023–2025: sorgo, DDGS, gergelim, café, frutas (uva, melão), miúdos; habilitações em massa de frigoríficos de carne e de aves.
+- **Riscos:** embargos sanitários temporários (casos de vaca louca atípica, gripe aviária — suspensões de 2023 e 2025 ⚠️), **salvaguarda de carne bovina 2026–2028** (cota de 1,106 Mt e +55% fora da cota), investigações antidumping chinesas (ex. carne suína da UE, brandy da UE — precedente de uso político).
+- **Cadastro do importador chinês** na GACC e documentação: certificado sanitário internacional, certificado de origem, packing list, B/L, contrato.
+
+**Fontes (seção 11):**
+- MDIC — medidas em vigor: https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/defesa-comercial-e-interesse-publico/medidas-em-vigor/medidas-em-vigor ; publicações DECOM 2026: https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/defesa-comercial-e-interesse-publico/publicacoes-do-decom-no-diario-oficial-da-uniao/publicacoes-do-decom-em-2026
+- Levantamento antidumping China 2026: https://fluxcomex.com.br/blog/antidumping-china-2026-medidas-em-vigor-lista
+- Res. Gecex 854/2026: https://www.legisweb.com.br/legislacao/?id=490807 ; Res. Gecex 857/2026: https://www.legisweb.com.br/legislacao/?id=491087
+- Carros elétricos 35%: https://www.novacana.com/noticias/governo-mantem-elevacao-tarifas-carro-eletrico-renova-cota-zero-240626
+- MP 1.357/2026: https://www12.senado.leg.br/noticias/materias/2026/05/13/medida-provisoria-zera-taxa-das-blusinhas-para-importacoes-de-ate-us-50 ; https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/174123
+- Comércio 2025: https://www.em.com.br/economia/2026/06/7437937-o-que-o-brasil-mais-compra-e-vende-para-a-china-comercio-bateu-recorde-de-uss-171-bi-em-2025.html ; MDIC estudo Brasil–China: https://www.gov.br/mdic/pt-br/centrais-de-conteudo/publicacoes/estudo-brasil-china
+- GACC Decreto 280: https://www.china-briefing.com/news/gac-overseas-food-manufacturer-registration-china-new-rules-2026/ ; https://inspection.canada.ca/en/exporting-food-plants-animals/food-exports/notices/2026-05-08
+- LC 214/2025 (reforma tributária): https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm
+
+---
+
+## 12. Riscos, sanções e compliance
+
+### 12.1 Arsenal chinês de contramedidas e segurança nacional
+
+| Norma | Vigência | Risco para a empresa brasileira |
+|---|---|---|
+| **Export Control Law** | **01/12/2020** | Controla itens dual-use, militares, nucleares e "outros itens" ligados à segurança nacional; **extraterritorialidade** e reexportação; listas de controle de usuários finais. **Regulamento de Controle de Exportação de Itens Dual-Use** (vigência **01/12/2024**) com lista unificada |
+| Controles específicos (gálio, germânio, grafite, antimônio, terras raras, tecnologia de baterias e de processamento de terras raras) | 2023–2025 | Interrompem cadeias de suprimento; pacote de out/2025 (inclui regra extraterritorial de 0,1% de conteúdo chinês) **suspenso até 10/01/2027** ⚠️; licenças de abr/2025 para 7 terras raras pesadas **em vigor** |
+| **Anti-Foreign Sanctions Law (AFSL)** | **10/06/2021**; **Regulamento de Implementação** do State Council de **23/03/2025** (vigência imediata) | Proíbe **cumprir/auxiliar** sanções estrangeiras "discriminatórias" contra entidades chinesas; permite **ação de indenização** em tribunais chineses contra quem as implementa; congelamento de ativos, proibição de transações, de entrada. Conflito direto para empresa que cumpre sanções dos EUA/UE na China |
+| **Unreliable Entity List Provisions** (MOFCOM) | 19/09/2020 | Restrição de comércio/investimento com empresas estrangeiras que "boicotem" entidades chinesas |
+| **Rules on Counteracting Unjustified Extra-territorial Application of Foreign Legislation** (MOFCOM "blocking rules") | 09/01/2021 | Obrigação de reportar ao MOFCOM ordens estrangeiras que proíbam transações normais |
+| **Anti-Espionage Law** (revisada) | **01/07/2023** | Conceito ampliado de espionagem: inclui "documentos, dados, materiais ou itens relacionados à segurança e interesses nacionais"; risco para **due diligence, consultorias, pesquisa de mercado, auditorias de fornecedores** e coleta de dados; poderes de inspeção de dispositivos |
+| **Foreign Relations Law** | 01/07/2023 | Base para contramedidas |
+| **Data Security Law / PIPL** | 2021 | Bloqueio de entrega de dados a autoridades estrangeiras |
+| **State Secrets Law** (revisada) | 01/05/2024 | "Segredos de trabalho" e informações não classificadas sensíveis |
+| **Counter-Espionage / Exit bans** | — | Proibição de saída do país para pessoas envolvidas em disputas civis, tributárias ou investigações (Lei de Saída e Entrada; Civil Procedure Law) — risco para executivos expatriados |
+
+### 12.2 Sanções e controles de terceiros países
+
+- **EUA:** OFAC (SDN, NS-CMIC), **BIS Entity List** e regra de **Affiliates (50%)** — esta reportada como **suspensa até 10/01/2027** ⚠️; **Foreign Direct Product Rule** (semicondutores, IA); **UFLPA** (presunção de trabalho forçado em Xinjiang — relevante se o produto brasileiro com insumo chinês for vendido aos EUA); Outbound Investment Rule (Tesouro, vigência 02/01/2025) para investimentos de "US persons" em semicondutores, quântica e IA na China.
+- **UE:** 2025–2026 pacotes de sanções à Rússia com entidades chinesas listadas; Regulamento sobre trabalho forçado (aplicação a partir de dez/2027).
+- **Empresa brasileira:** não está obrigada às sanções dos EUA, salvo nexo americano (dólar, US persons, bens/tecnologia de origem americana, filial nos EUA) — mas **bancos brasileiros aplicam compliance OFAC** e podem recusar operações. Realizar **screening** de fornecedores/clientes chineses em listas OFAC, BIS, UE, ONU (o Brasil internaliza sanções do CSNU — Lei 13.810/2019).
+
+### 12.3 Anticorrupção
+
+- **China:**
+  - **Criminal Law da RPC:** suborno de funcionários públicos (arts. 389–393), **suborno no setor privado** (art. 164 — "non-state functionaries"), suborno de **funcionários estrangeiros** e de organizações internacionais (art. 164 §2). **Emenda XII** (vigência **01/03/2024**) endureceu penas para quem **oferece** suborno e para crimes de empresas privadas (desvio, conflito de interesses).
+  - **Anti-Unfair Competition Law** — suborno comercial: multa de **RMB 100.000 a 3 milhões** + confisco (AUCL 2019; ⚠️ revisão de 2025, vigência 15/10/2025, prevê punição também do **receptor** e valores mais altos).
+  - Supervisory Law (2018; rev. 2024) — Comissão Nacional de Supervisão investiga agentes públicos.
+  - Práticas de risco: "red packets" (红包), presentes no Ano Novo Chinês/Festival da Lua, viagens para funcionários de estatais (SOEs), agentes de despacho aduaneiro, "consultores" para licenças, pagamentos de facilitação.
+- **Brasil:** **Lei 12.846/2013 (Lei Anticorrupção)** — responsabilidade **objetiva** de pessoa jurídica brasileira por atos lesivos contra **administração pública estrangeira** (art. 5º), inclusive praticados por sua WFOE, agentes ou intermediários na China; multa de **0,1% a 20% do faturamento bruto** do exercício anterior; **Decreto 11.129/2022** (programa de integridade como atenuante, acordo de leniência — CGU). Código Penal art. 337-B (corrupção ativa em transação comercial internacional).
+- **EUA (FCPA):** aplica-se a emissores com ADRs, "domestic concerns" e atos no território americano (ex. e-mail/dólar) — relevante para brasileiras listadas nos EUA. ⚠️ Em 2025 o DOJ alterou prioridades de *enforcement* do FCPA (diretriz de jun/2025) — verificar política vigente.
+- **Convenção da OCDE** (Brasil é parte; China não).
+
+### 12.4 Outros riscos práticos
+
+- **Fraude de fornecedor** (empresas de fachada, golpe de troca de conta bancária, falsas fábricas que são traders) → verificação no gsxt.gov.cn, visita/auditoria de fábrica, pagamento apenas à conta em nome da empresa contratante.
+- **Qualidade/contrafação** → QC por terceiros, golden sample, recordal aduaneiro.
+- **Controle da WFOE:** representante legal e guarda dos chops; procurações limitadas; dupla assinatura bancária (U-key).
+- **Perdas cambiais e repatriação** (seção 6); **mudanças regulatórias rápidas** (anúncios com vigência imediata).
+- **Risco geopolítico** EUA–China (10/01/2027), Taiwan, sanções secundárias.
+- **Tributário:** fiscalização baseada em big data (Golden Tax IV), *fapiao* falso (crime — Criminal Law arts. 205–210), preços de transferência e pagamentos de serviços ao exterior.
+
+**Fontes (seção 12):**
+- AFSL – Regulamento 2025: https://english.www.gov.cn/policies/latestreleases/202503/25/content_WS67e1df5dc6d0868f4e8f11fd.html ; https://www.wilmerhale.com/en/sitecore/content/whlaunch/home/research/news-publications/20250331-china-further-formalizes-its-anti-foreign-sanctions-legal-arsenal-the-regulations-on-implementation-of-the-anti-foreign-sanctions-law
+- Export Control (suspensão 2025): https://pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html ; https://china-briefing.com/news/chinas-rare-earth-export-controls-impacts
+- MOFCOM: http://english.mofcom.gov.cn/
+- Lei 12.846/2013: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm ; Decreto 11.129/2022: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11129.htm
+- OFAC: https://ofac.treasury.gov/ ; BIS: https://www.bis.gov/
 
 ---
