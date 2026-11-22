@@ -60,7 +60,7 @@ Para cada pedido:
 
 # Especialidades internacionais
 
-- **China:** WFOE/JV, CIT 25% e reduções, VAT (nova lei 2026), retenções 10%, acordo Brasil–China (Decreto 762/1993), fapiao, CAS, repatriação via SAFE, importação de produtos chineses no Brasil (II, IPI, PIS/Cofins-importação, ICMS, antidumping, IBS/CBS-importação).
+- **China:** WFOE/JV, CIT 25% e reduções, VAT (nova lei 2026), retenções 10%, acordo Brasil–China (Decreto 762/1993, alterado pelo Protocolo promulgado pelo Decreto 12.620/2025, efeitos desde 01/01/2026; sem tax sparing), fapiao, CAS, repatriação via SAFE, importação de produtos chineses no Brasil (II, IPI, PIS/Cofins-importação, ICMS, antidumping, IBS/CBS-importação).
 - **Alemanha:** GmbH/UG, KSt 15% + Soli + Gewerbesteuer (~30%), USt 19%/7%, e-Rechnung, HGB/GoBD, **ausência de acordo de bitributação Brasil–Alemanha desde 2006** (crédito unilateral e reciprocidade), acordo previdenciário Brasil–Alemanha, CBAM/EUDR para exportadores, acordo Mercosul–UE.
 - Sempre analise **os dois lados** da operação: tributação no país de origem, retenção na fonte, crédito/compensação no Brasil, câmbio (Lei 14.286/2021) e obrigações declaratórias (CBE, ECF, preços de transferência — Lei 14.596/2023).
 

@@ -827,3 +827,141 @@ Requisitos cumulativos usuais:
 - OFAC: https://ofac.treasury.gov/ ; BIS: https://www.bis.gov/
 
 ---
+
+## 13. Checklists operacionais
+
+### 13.1 Abrir uma WFOE (passo a passo)
+
+1. **Definir o modelo:** RO × WFOE × JV × distribuidor; checar **Negative List 2024** e **Market Access Negative List 2025**; verificar se a atividade está no **Catálogo de Encorajamento 2025** (benefícios).
+2. **Planejamento tributário Brasil–China:** detenção direta pela PJ brasileira (ADT + art. 77 Lei 12.973) × holding intermediária (⚠️ Hong Kong = lista de tributação favorecida da RFB); simular carga total (34% Brasil vs. 25%/15%/5% China) e fluxo de royalties/serviços.
+3. **Escolher cidade/zona** (FTZ, Hainan, GBA, Oeste) — incentivos, custo de mão de obra, base de seguro social, porto.
+4. **Nome em chinês** (verificação na SAMR local), **escopo de negócios** padronizado, **capital registrado** (orçamento de 2–3 anos; integralização em **≤ 5 anos**), **investimento total** (se relevante).
+5. **Governança:** diretor executivo ou board; supervisor ou comitê de auditoria; **representante legal**; gerente-geral; estatuto conforme Company Law 2023.
+6. **Endereço registrado:** contrato de locação comercial (não residencial) com certificado de propriedade do locador.
+7. **Documentos da matriz:** contrato social, certidão da Junta, documentos dos administradores — **apostilar** no Brasil + tradução para chinês; procuração ao agente local.
+8. **Registro na SAMR** → **Licença de negócios** (Unified Social Credit Code). Informação de investimento estrangeiro enviada automaticamente ao MOFCOM.
+9. **Chops:** gravar e registrar na polícia (PSB): company chop, financial chop, legal representative chop, contract chop, invoice (fapiao) chop. Definir política interna de guarda.
+10. **Contas bancárias:** conta básica em RMB, **conta de capital** em moeda estrangeira; **registro de FDI** no banco (SAFE).
+11. **Cadastro tributário** (automático com a licença; ativar no e-Tax): tipo de contribuinte de VAT (geral × pequeno), acesso ao e-fapiao, cadastro de pessoal fiscal; **real-name** do responsável financeiro.
+12. **Seguro social e Housing Fund:** contas do empregador em até 30 dias após contratar.
+13. **Comércio exterior (se aplicável):** registro de operador de comércio exterior (dispensado desde 2022 — integrado), **registro na GACC** como consignatário/expedidor, certificado eletrônico.
+14. **Integralizar capital** conforme cronograma; publicar no gsxt.gov.cn.
+15. **Vistos de trabalho** (Work Permit + Z + Residence Permit) para expatriados.
+16. **Compliance anual:** contabilidade mensal (agente contábil), VAT/IIT mensal, CIT trimestral, **auditoria anual**, **CIT anual até 31/05**, **relatório anual SAMR/MOFCOM até 30/06**, TP local file até 30/06, atualização SAFE.
+17. **No Brasil:** registrar o investimento no **CBE** (Bacen) se aplicável; contabilizar por equivalência; preparar apuração do **art. 77** (31/12); guardar comprovantes do CIT chinês para crédito; ECF (registro X).
+
+### 13.2 Importar da China com segurança
+
+1. **Classificar o produto (NCM)** e calcular custo landed: II + IPI + PIS/Cofins (ou CBS/IBS) + ICMS + AFRMM + **antidumping/cotas** (checar tabela MDIC) + frete + seguro + despachante + armazenagem.
+2. **Verificar exigências de anuência** (INMETRO, ANVISA, ANATEL, MAPA, IBAMA etc.) e **LPCO** antes do embarque.
+3. **RADAR** na modalidade adequada.
+4. **Due diligence do fornecedor:** licença de negócios (gsxt.gov.cn), confirmação de que é **fabricante** (não trader), auditoria de fábrica, referências, capacidade, certificações (ISO 9001), checagem de sanções (OFAC/BIS/UE) e de trabalho forçado.
+5. **Registrar sua marca na China** (CNIPA/Madri) e, se houver tecnologia/desenho, assinar **NNN** em chinês **antes** de enviar especificações; considerar patente de utilidade/desenho na China.
+6. **Contrato de compra** bilíngue com chop (seção 8.4): especificações, golden sample, Incoterms 2020, inspeção pré-embarque com AQL, prazos, multas, garantia, propriedade dos moldes, arbitragem.
+7. **Pagamento seguro:** L/C (UCP 600) com certificado de inspeção, ou sinal ≤ 30% e saldo contra documentos; confirmar dados bancários por **canal independente** (telefone/vídeo), nunca só por e-mail; considerar pagamento em CNY.
+8. **Inspeção pré-embarque** (terceiro) e acompanhamento de carregamento (CLI — container loading inspection).
+9. **Documentos:** commercial invoice, packing list, B/L, certificado de origem (antidumping/preferências), certificados técnicos; conferir consistência com DUIMP.
+10. **Seguro de carga** (se FOB/FCA).
+11. **Despacho:** DUIMP, recolhimento, canal de parametrização; preparar defesa de valoração (preços muito baixos geram questionamento).
+12. **Pós-venda:** reclamações dentro do prazo contratual; registro de não conformidades; *chargeback* contratual.
+13. **Pessoa física/e-commerce:** Remessa Conforme (II 0% até USD 50 para PF desde 12/05/2026; 60% − USD 30 acima; ICMS 17%/20%) — **não serve para revenda comercial**.
+
+### 13.3 Repatriar lucros da China para o Brasil
+
+1. **Encerrar o exercício (31/12)** e concluir a **auditoria** (CPA chinesa) — mar/abr.
+2. **Compensar prejuízos** acumulados e **constituir reserva legal de 10%** (até 50% do capital).
+3. **Declaração anual de CIT** (até **31/05**) e quitação do CIT.
+4. **Deliberação de distribuição** do sócio (matriz brasileira) — valor, data.
+5. **Retenção de 10% de WHT** (ADT confirma 10% para participação ≥ 10% por 365 dias); arquivar documentação de benefício do tratado (STA Anúncio 35/2019) e **certificado de residência fiscal brasileiro** (se necessário para aplicar o tratado em outros rendimentos).
+6. **Registro tributário de pagamento ao exterior** (> USD 50.000) no e-Tax.
+7. **Banco chinês:** apresentar deliberação, auditoria, comprovantes fiscais e registro de FDI → remessa em USD/CNY.
+8. **Alternativa:** reinvestir na China e obter **crédito de 10%** (Anúncio 2/2025, até 31/12/2028; manutenção ≥ 5 anos) ou **diferimento de WHT**.
+9. **No Brasil:** fechar câmbio de ingresso (IOF-câmbio ⚠️ verificar alíquota vigente); contabilizar o dividendo contra o investimento (equivalência); o lucro já foi oferecido à tributação em 31/12 pelo **art. 77** — **não tributar novamente**; aproveitar **crédito do CIT chinês e da WHT** (art. 87) até o limite de IRPJ/CSLL; controlar saldos na ECF; atualizar **CBE**.
+10. **Distribuição ao sócio pessoa física no Brasil:** observar **Lei 15.270/2025** (IRRF de 10% sobre dividendos acima de R$ 50 mil/mês por PJ pagadora a PF residente e tributação mínima de altas rendas) ⚠️.
+
+---
+
+## 14. Tabela-resumo de alíquotas e prazos
+
+### 14.1 Alíquotas — China
+
+| Tributo | Alíquota | Base legal | Vigência / ⚠️ |
+|---|---|---|---|
+| CIT geral | 25% | EIT Law 2007 | Permanente |
+| CIT HNTE / Oeste / Hainan | 15% | EIT Law art. 28; Anúncios MOF/STA | Oeste até 2030; Hainan ⚠️ 2027 |
+| CIT pequena empresa de baixo lucro | 5% efetivo (≤ RMB 3 mi) | Anúncio 12/2023 | Até 31/12/2027 ⚠️ |
+| Superdedução P&D | +100% (200% total) | Anúncio 7/2023 | Permanente |
+| WHT dividendos/juros/royalties (não residente) | 10% | EIT Law art. 3/27; Reg. art. 91 | — |
+| ADT Brasil–China (dividendos / juros / royalties) | 10%–15% / 10%–15% (isenções) / 10% (marcas 15%) | Decreto 762/1993 + Decreto 12.620/2025 | Desde 01/01/2026 |
+| Crédito de reinvestimento | 10% do valor reinvestido | Anúncio 2/2025 | 2025–2028 |
+| VAT | 13% / 9% / 6% / 0% | Lei do VAT 2024 | Desde 01/01/2026 |
+| VAT pequeno contribuinte | 3% (1% temporário); isenção ≤ RMB 100 mil/mês | Lei do VAT + Anúncio 10/2026 | 1% até 31/12/2027 ⚠️ |
+| VAT sobre serviços/royalties pagos ao exterior | 6% (retido) | Lei do VAT | — |
+| Urban maintenance + education surcharges | 7%/5%/1% + 3% + 2% (sobre VAT+CT) | Leis/Regulamentos | 50% de redução p/ pequenas até 2027 ⚠️ |
+| Stamp duty (compra e venda) | 0,03% | Stamp Tax Law 2021 | Desde 01/07/2022 |
+| Stamp duty (capital) | 0,025% | idem | — |
+| IIT | 3%–45% (salários); 20% (dividendos, juros, ganhos) | IIT Law 2018 | — |
+| Expatriados — benefícios isentos | Moradia, educação, idiomas | Anúncio 29/2023 | **Até 31/12/2027** ⚠️ |
+| Seguro social (empregador) | ~30%–40% (cidade) | Social Insurance Law | Ajustes anuais |
+| Property tax | 1,2% (custo) / 12% (aluguel) | Regulamento 1986 | — |
+| Land appreciation tax | 30%–60% | Regulamento 1993 | ⚠️ projeto de lei |
+| Tarifa adicional sobre carne bovina fora da cota | +55% | MOFCOM Anúncio 87/2025 | 2026–2028 |
+
+### 14.2 Alíquotas — Brasil (operações com a China)
+
+| Operação | Tributação | Base legal |
+|---|---|---|
+| Lucro de controlada chinesa (PJ) | IRPJ/CSLL 34% em 31/12 (crédito do CIT e WHT chineses) | Lei 12.973/2014 arts. 77, 87 |
+| Consolidação / crédito presumido 9% | Permitidos até o ano-calendário 2029 | Lei 12.973 arts. 78 e 87 §10 (red. Lei 15.079/2024) |
+| Lucro de controlada no exterior (PF) | 15% anual | Lei 14.754/2023 |
+| Dividendos pagos a sócio chinês | IRRF 10% | Lei 15.270/2025 (teto ADT 10%/15%) |
+| Royalties/serviços técnicos pagos à China | IRRF 15% → 10% (ADT) + CIDE 10% + PIS/Cofins-Imp. + ISS | Lei 10.168/2000; ADT |
+| Juros pagos à China | IRRF 15% (10%/isento casos especiais) | ADT art. 11 |
+| Importação de bens | II (TEC) + IPI + PIS 2,10% + Cofins 9,65% + ICMS + AFRMM 8% (+ CBS 0,9%/IBS 0,1% teste 2026) | Diversos; LC 214/2025 |
+| Elétricos/híbridos importados | II 35% | Res. Gecex (desde 01/07/2026) |
+| Remessa Conforme (PF ≤ USD 50) | II 0% + ICMS 17%/20% | MP 1.357/2026 (Lei 15.502/2026 ⚠️) |
+| Remessa Conforme (USD 50–3.000) | II 60% − USD 30 + ICMS | idem |
+
+### 14.3 Calendário de obrigações — WFOE (China)
+
+| Prazo | Obrigação |
+|---|---|
+| Até o dia **15** de cada mês | VAT e sobretaxas (mensal); IIT retido na fonte; stamp duty (mensal/trimestral) |
+| Até o dia 15 após o fim de cada trimestre | Antecipação de CIT; VAT de pequeno contribuinte (trimestral) |
+| **Jan–Abr** | Auditoria anual das demonstrações financeiras |
+| **1º/mar – 30/jun** | Ajuste anual de IIT dos empregados |
+| **Até 31/05** | Declaração anual de CIT (*annual reconciliation*) + formulários de partes relacionadas (22) |
+| **01/01 – 30/06** | Relatório anual SAMR (gsxt) + relatório anual de investimento estrangeiro (MOFCOM) |
+| **Até 30/06** | Local File e Special File de preços de transferência (exercício anterior) |
+| ⚠️ Até 30/09 | Atualização anual de dados de FDI na SAFE (via plataforma/banco) |
+| 12 meses após o fim do exercício da controladora | Master File |
+| Julho (variável por cidade) | Reajuste da base de seguro social e housing fund |
+| **30/06/2027** | Ajuste do cronograma de integralização de capital (LLCs anteriores a 30/06/2024) |
+| **31/12/2027** | Fim (salvo prorrogação) de: CIT 5% pequenas empresas; VAT 1%; benefícios de IIT de expatriados; bônus anual separado |
+| **31/12/2028** | Fim do crédito de reinvestimento de 10% |
+| **10/01/2027** | Fim da trégua tarifária EUA–China (24% adicionais, controles de terras raras de out/2025) |
+
+### 14.4 Calendário — Brasil (controladora de empresa chinesa)
+
+| Prazo | Obrigação |
+|---|---|
+| 31/12 | Reconhecimento dos lucros da controlada (art. 77) no balanço |
+| Último dia útil de julho (ECF) | ECF com registros de participações no exterior e créditos |
+| Abril (ref. 31/12 ano anterior) ⚠️ | **CBE anual** ao Banco Central (ativos ≥ USD 1 milhão) |
+| Trimestral ⚠️ | CBE trimestral (ativos ≥ USD 100 milhões) |
+| Dia do pagamento | IRRF 10% sobre dividendos remetidos ao exterior (Lei 15.270/2025) |
+
+---
+
+## 15. Pontos de maior incerteza (para revisão periódica)
+
+1. **Benefícios de IIT para expatriados e incentivos que vencem em 31/12/2027** (CIT 5% de pequenas empresas, VAT 1%, redução de "seis tributos e duas sobretaxas") — sem anúncio de prorrogação em nov/2026.
+2. **Tarifas EUA–China e controles de exportação chineses**: trégua até **10/01/2027**; decisão da Suprema Corte dos EUA (20/02/2026) sobre IEEPA e nova tarifa Section 301 de 12,5% reportadas por fontes secundárias — confirmar no Federal Register/MOFCOM.
+3. **ADT Brasil–China — alíquota de dividendos de 5%**: divergência entre PwC WWTS (5% para ≥ 25%) e o texto do Decreto 12.620/2025 (5% só para entes governamentais/listados); confirmar no DOU. Também confirmar ausência de tax sparing.
+4. **Pilar Dois na China** (QDMTT não promulgado) e interação com a Lei 15.079/2024 brasileira (Adicional da CSLL) — e regulamentos detalhados da nova Lei do VAT (ex.: alíquota simplificada de 5% de imóveis, número do Anúncio 10/2026).
+5. **Regras brasileiras em fluxo**: conversão da MP 1.357/2026 (Lei 15.502/2026?) e CBS sobre remessas em 2027; IOF-câmbio após Decreto 12.499/2025 e controvérsia judicial; regras de transição da Lei 15.270/2025; status de Hong Kong na lista da IN RFB 1.037/2010; inexistência de acordo previdenciário Brasil–China.
+
+Outros pontos ⚠️ menores: nova edição da Negative List (não localizada após 2024), data exata da tarifa adicional sobre carne bovina brasileira (cota esgotada), alcance da arbitragem ad hoc na nova Lei de Arbitragem, limiar de CbCR (RMB 5,5 bi), parâmetro macroprudencial de dívida externa, prorrogação da isenção de visto após 31/12/2026, revisão da Trademark Law.
+
+---
+*Última atualização: 22/11/2026. Mantido para os agentes Contador e Advogado. Revisar ao menos trimestralmente e sempre antes de: 30/06/2027, 31/12/2027, 10/01/2027 e 31/12/2028.*
