@@ -782,3 +782,234 @@ Importação de equipamento com CIF de R$ 100.000, II de 11,2%, IPI de 5%, PIS d
 - ICC Incoterms® 2020: https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/
 
 ---
+
+## 9. Exportação, financiamento e acordos comerciais
+
+### 9.1 Desoneração da exportação — regime atual e reforma
+
+| Tributo | Regra na exportação | Base | Créditos |
+|---|---|---|---|
+| **ICMS** | **Imunidade** em operações e prestações que destinem mercadorias ao exterior e serviços prestados a destinatários no exterior | CF, art. 155, §2º, X, "a" (EC 42/2003); LC 87/1996, art. 3º, II | **Manutenção e aproveitamento** dos créditos. A transferência a terceiros depende da legislação estadual, e o acúmulo de créditos é problema crônico |
+| **IPI** | **Imunidade** | CF, art. 153, §3º, III | Manutenção do crédito e ressarcimento (Lei 9.779/1999, art. 11) |
+| **PIS/Cofins** | **Imunidade** de receitas de exportação | CF, art. 149, §2º, I; Leis 10.637/2002 e 10.833/2003 (art. 5º/6º) | Crédito ressarcível ou compensável (PER/DCOMP) |
+| **Exportação de serviços** | PIS/Cofins: isenção se houver **ingresso de divisas** (Lei 10.833, art. 6º, II). ISS: não incide se o **resultado** se verificar no exterior (LC 116, art. 2º, I e parágrafo único). O STJ tem interpretação restritiva sobre o "resultado" ⚠️ | | |
+| **IRPJ/CSLL** | Incidem normalmente sobre o lucro de exportação | | O Brasil não tem regime de *export incentive* de IR, salvo SUDENE/SUDAM e as áreas incentivadas |
+| **IOF-câmbio** | **0%** no ingresso de receitas de exportação | Decreto 6.306/2007, art. 15-B | |
+| **IBS/CBS (reforma)** | **Imunidade** das exportações de bens e serviços, com **manutenção e ressarcimento** dos créditos (EC 132/2023; LC 214/2025, arts. 79 e seguintes ⚠️) | Prazos de ressarcimento: até 60 dias para quem está em programa de conformidade e 180 dias para os demais ⚠️ | Definição de **exportação de serviços**: serviço consumido no exterior, com regras específicas (LC 214, art. 80 ⚠️). Regime de **"exportador preponderante"** com suspensão na compra de insumos ⚠️ |
+| **Exportação indireta** (trading e comercial exportadora com fim específico) | Suspensão ou isenção com **fim específico de exportação** | DL 1.248/1972; Lei 10.833, art. 6º, III | Prazo de 180 dias para exportar ⚠️ |
+
+### 9.2 Reintegra e Acredita Exportação
+
+- **Reintegra** (Lei 13.043/2014; Decreto 8.415/2015): crédito sobre a **receita de exportação** de bens manufaturados (lista de NCM) para devolver resíduo tributário.
+  - **Alíquota geral: 0,1%** (desde junho de 2018, pelo Decreto 9.393/2018).
+  - **Acredita Exportação** (**LC 216/2025**; Decreto 12.565/2025): **alíquota de 3%** para **MEI, ME e EPP** (inclusive no Simples Nacional), para exportações de **01/08/2025 a 31/12/2026**. A prorrogação para 2027 não foi confirmada ⚠️.
+  - **Uso**: ressarcimento em espécie ou compensação via PER/DCOMP.
+  - **Tributação**: o crédito do Reintegra **não integra a base** do IRPJ, da CSLL e do PIS/Cofins.
+  - **Futuro**: o Reintegra deve ser substituído ou adaptado na transição para IBS/CBS ⚠️.
+
+### 9.3 Câmbio de exportação, ACC/ACE e financiamento
+
+- **Recebimento**: o exportador pode **manter 100% das receitas no exterior** (Lei 14.286/2021). Se mantiver, deve declarar na CBE quando passar dos limites e tributar rendimentos dessas contas.
+- **ACC** (Adiantamento sobre Contrato de Câmbio): financiamento **pré-embarque**, com antecipação do valor de exportação contratada a futuro. Prazo de **até 360 dias** antes do embarque, conforme a prática bancária ⚠️ (o marco cambial deu flexibilidade às partes).
+- **ACE** (Adiantamento sobre Cambiais Entregues): financiamento **pós-embarque**, com prazo usual de **até 390 dias** contados do embarque ⚠️.
+- **Tributação do ACC/ACE**: o IOF é **0%**. Os juros são despesa financeira dedutível.
+- **PAE** (Pagamento Antecipado de Exportação): crédito externo com prazo de vigência. Registro no **SCE-Crédito**.
+- **Outros instrumentos**:
+  - **Proex** Financiamento e Equalização (Tesouro e Banco do Brasil): equalização de juros para competitividade;
+  - **BNDES Exim** (pré e pós-embarque);
+  - **NCE** e **CCE** (Notas e Cédulas de Crédito à Exportação, Lei 6.313/1975), com IOF zero ⚠️;
+  - **Seguro de Crédito à Exportação** (SCE): cobertura do **FGE** (Fundo de Garantia à Exportação, Lei 9.818/1999) contra riscos políticos e extraordinários e risco comercial de longo prazo. A gestão saiu da ABGF, extinta, e passou à União/BNDES ⚠️. Também há seguradoras privadas de crédito (Coface, Allianz Trade, Atradius) para risco comercial de curto prazo.
+- **Apex Brasil** (Agência Brasileira de Promoção de Exportações e Investimentos): programas **PEIEX** (qualificação), feiras, projetos setoriais, inteligência de mercado e o portal **Exporta Mais Brasil** ⚠️. Os serviços são gratuitos ou subsidiados.
+- **Ferramentas públicas**: Comex Stat (estatísticas), Portal Único, **Simulador do Preço de Exportação** e **Mapa de Acordos** do MDIC.
+
+### 9.4 Mercosul — TEC e regras de origem
+
+- **TEC** (Tarifa Externa Comum): alíquotas de **0% a 35%** pela NCM. Média de cerca de 11% ⚠️.
+- **Listas de exceção** nacionais:
+  - **LETEC**: Brasil com até cerca de 100 a 150 códigos ⚠️;
+  - **BK/BIT**;
+  - **Desabastecimento** (Res. GMC 49/2019);
+  - automotivo (regime próprio).
+- **Res. Gecex 852/2026** realinhou BK/BIT nacionais ⚠️.
+- **Comércio intrazona**: tarifa **0%**, com **Certificado de Origem** (ou Certificado de Origem Digital, COD) e cumprimento do **Regime de Origem do Mercosul** (Decisão CMC 01/2009 ⚠️):
+  - em geral **salto tarifário** (mudança de posição SH) ou **conteúdo regional de pelo menos 60%** (valor CIF dos insumos extrazona no máximo 40% do valor FOB);
+  - há requisitos específicos por produto e prazos para Paraguai e Uruguai.
+- **Exceções ao livre-comércio**: açúcar e o setor automotivo (acordos bilaterais Brasil–Argentina, Brasil–Paraguai e Brasil–Uruguai).
+- **Trânsito e AEO regional**: Acordo de Reconhecimento Mútuo de OEA do Mercosul.
+
+### 9.5 Acordos extrarregionais — status em 22/11/2026
+
+| Acordo | Status | Pontos-chave |
+|---|---|---|
+| **Mercosul–União Europeia** (Acordo de Parceria e Acordo Comercial Interino) | **Assinado em 17/01/2026** (Assunção), depois de autorização do Conselho da UE em 09/01/2026 (21 votos a favor, 5 contra e 1 abstenção). Em **21/01/2026**, o **Parlamento Europeu** enviou o texto ao **Tribunal de Justiça da UE** para parecer (334 a 324), o que adia o consentimento. O **Brasil ratificou**: aprovação no Congresso e depósito em **18/03/2026** ⚠️. A **aplicação provisória** começou em **01/05/2026** entre a UE e os Estados do Mercosul que ratificaram, segundo as fontes ⚠️ (confirmar no Conselho da UE e no MDIC/Siscomex) | Eliminação tarifária gradual: a UE libera cerca de 92% a 95% das importações do Mercosul; o Mercosul libera cerca de 91% em até 15 anos ⚠️. **Cotas** agrícolas (carne bovina 99 mil t, frango, açúcar, etanol). **Salvaguarda agrícola** bilateral (regulamento da UE). Regras de origem próprias com **autocertificação** pelo exportador registrado (REX ⚠️). Compras governamentais, IG, desenvolvimento sustentável e o mecanismo de reequilíbrio |
+| **Mercosul–EFTA** (Suíça, Noruega, Islândia e Liechtenstein) | Assinado em **16/09/2025** ⚠️. **Promulgado no Brasil pelo Decreto 13.126/2026** (DOU de 25/09/2026), com **vigência a partir de 01/10/2026** para o Brasil, segundo a Agência Brasil ⚠️ (confirmar as notificações das demais partes) | A EFTA elimina tarifas para cerca de 97% a 99% das exportações do Mercosul ⚠️. Interage com os acordos de bitributação com a Suíça (2021) e a Noruega (nova convenção de 2025) |
+| **Mercosul–Singapura** | Assinado em 07/12/2023. **Decreto Legislativo 147/2026**; ratificação depositada em 30/06/2026; **Decreto 13.081, de 27/07/2026**. **Em vigor para o Brasil desde 01/08/2026**. Paraguai desde fev/2026 e Uruguai desde mar/2026 | Singapura **zera as tarifas de 100%** dos produtos do Mercosul na entrada em vigor. O Mercosul tem cronograma de até 15 anos. Serviços, investimentos e compras públicas |
+| Outros em vigor | Chile, Bolívia, Peru, Colômbia, Equador e Venezuela (ACEs da ALADI); México (ACE 53, 55 e 54); Israel; Egito; Índia (preferencial limitado); SACU; Cuba (ACE 62) | Margens de preferência variam |
+| Em negociação | Emirados Árabes Unidos, Canadá, Coreia, Indonésia, El Salvador, Panamá ⚠️ | |
+
+**Fontes — Seção 9**
+- CF/88 (imunidades): https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; LC 87/1996: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp87.htm
+- Reintegra e Acredita: https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/restituicao-ressarcimento-reembolso-e-compensacao/mensagens/reintegra/valor-maximo ; https://www.garciaemoreno.com.br/legislacao/25932/decreto_n__12.565,_de_2025:_eleva_para_3__a_aliquota_do_reintegra_para_empresas_do_simples_nacional.html
+- Mercosul–UE: https://observador.pt/2026/01/21/parlamento-europeu-envia-acordo-com-mercosul-para-tribunal-europeu/ ; https://www.thomsonreuters.com.br/pt/tax-accounting/comercio-exterior/blog/acordo-mercosul-ue.html ; https://www.barbieriadvogados.com/acordo-mercosul-uniao-europeia/ ; https://data.consilium.europa.eu/doc/document/ST-6466-2026-INIT/pt/pdf
+- Mercosul–Singapura: https://www.machadomeyer.com.br/pt/inteligencia-juridica/publicacoes-ij/comercio-exterior-e-direito-aduaneiro/acordo-de-livre-comercio-entre-mercosul-e-singapura-entra-em-vigor-para-o-brasil-em-1-de-agosto-de-2026 ; https://www.legisweb.com.br/legislacao/?id=498624
+- Mercosul–EFTA: https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-promulga-acordo-de-livre-comercio-entre-mercosul-e-efta ; https://www.thomsonreuters.com.br/pt/tax-accounting/comercio-exterior/blog/acordos-mercosul-singapura-efta-impactos-empresas.html
+- MDIC, acordos: https://www.gov.br/mdic/pt-br/assuntos/camex ; Apex: https://apexbrasil.com.br
+
+---
+
+## 10. Mercados prioritários — comparativo tributário
+
+> Alíquotas nominais gerais de 2026 para sociedades. A WHT (retenção na fonte) indicada é a de **saída** do país listado para um beneficiário **brasileiro**, já com o acordo quando houver. Sempre conferir o PwC Worldwide Tax Summaries e o texto do acordo. ⚠️ Valores sujeitos a mudanças anuais.
+
+| País | IR corporativo | IVA / imposto sobre consumo | WHT dividendos ao Brasil | WHT juros | WHT royalties | Acordo com o Brasil | Observações |
+|---|---|---|---|---|---|---|---|
+| **Brasil** (referência) | **34%** (IRPJ de 15% + adicional de 10% sobre o lucro acima de R$ 240 mil por ano + CSLL de 9%); lucro presumido com presunções ampliadas em 10% pela LC 224/2025 | ICMS, IPI, PIS/Cofins e ISS. Transição para **IBS/CBS** (IVA dual) | **10%** (Lei 15.270/2025) | 15% | 15% + CIDE 10% | — | JCP de 17,5%. Pilar Dois via adicional de CSLL |
+| **EUA** | **21% federal** + estadual (0% a cerca de 11,5%) | *Sales tax* estadual (sem IVA federal) | **30%** (sem acordo) | 30% (*portfolio interest* isento) | 30% | **Não** | **FDII/GILTI** (agora NCTI/FDDEI após a OBBBA de 2025 ⚠️). LLC transparente. Possível RFP para o Brasil |
+| **Portugal** | **19%** (2026) + derrama municipal até 1,5% + estadual de 3% a 9%. PME a 15% sobre os primeiros €50 mil | IVA de 23% (continente) | Lei interna de 25%; **acordo de 10%** (participação de pelo menos 25%) ou **15%** | Acordo de 15% | Acordo de 15% | Sim (2001) | Porta de entrada na UE. Regime da Madeira listado no Brasil |
+| **Espanha** | **25%** (PMEs com alíquotas reduzidas, de 23% a 24% ⚠️; *startups* a 15%) | IVA de 21% | Lei interna de 19%; acordo de 10% ou 15% ⚠️ | Acordo de 10% ou 15% ⚠️ | Acordo de 10% a 15% | Sim (1976) | **ETVE** (holding) |
+| **Argentina** | **25% a 35%** escalonado (35% acima de cerca de ARS 1,34 bilhão em 2026) | IVA de 21% + IIBB provincial | **7%** (fontes divergem) ⚠️ | Acordo de 15% | Acordo de 10% a 15% | Sim (protocolo de 2018) | Controles cambiais flexibilizados desde 2025 ⚠️. Imposto sobre débitos bancários |
+| **Paraguai** | **IRE de 10%** (territorial) | IVA de 10% (5% para alguns itens) | **IDU: 15%** para não residentes (8% para residentes) | 15% ⚠️ | 15% ⚠️ | **Não** em vigor | Regime de **maquila** (1% sobre o valor agregado). Lei 60/90 de investimentos. Destino de *nearshoring* de indústrias brasileiras |
+| **México** | **30%** | IVA de 16% (8% na fronteira) | **10%** (lei interna; acordo de 10% a 15%) | Acordo de 15% | Acordo de 10% a 15% | Sim (2006) | PTU (participação de 10% dos empregados nos lucros). IMMEX. USMCA |
+| **Emirados Árabes Unidos** | **9%** acima de AED 375 mil; 0% em *free zone* qualificada; DMTT de 15% para grandes grupos (2025) | VAT de 5% | **0%** | 0% | 0% | Sim (2021) | Sem imposto de renda de PF. Para o Brasil, **regimes de free zone podem ser RFP** ⚠️. Substância (ESR) |
+
+> **Leitura para o empresário**: o Brasil tem uma das **maiores cargas nominais sobre o lucro** (34%) e agora retém 10% sobre dividendos. Abrir operação no exterior **não reduz automaticamente** o imposto do grupo brasileiro: o **CFC** traz o lucro de volta a 34%, com crédito do imposto estrangeiro. A vantagem está na **tributação local de operações reais**, no acesso a mercados e acordos e na ausência de WHT na saída de alguns países (por exemplo, Emirados). Em países de alíquota mais alta (México, Argentina), o crédito tende a zerar o imposto adicional no Brasil.
+
+**Fontes — Seção 10**
+- PwC Worldwide Tax Summaries (por país): https://taxsummaries.pwc.com/ ; México: https://taxsummaries.pwc.com/Mexico/Corporate/Taxes-on-corporate-income ; Argentina: https://taxsummaries.pwc.com/argentina/corporate/withholding-taxes
+- Deloitte Tax Highlights 2026 (Argentina, Paraguai): https://www.deloitte.com/content/dam/assets-shared/docs/services/tax/2026/dttl-tax-argentinahighlights-2026.pdf ; https://www.deloitte.com/content/dam/assets-shared/docs/services/tax/2026/dttl-tax-paraguayhighlights-2026.pdf
+- Portugal, OE 2026: https://www.occ.pt/sites/default/files/public/2025-12/OE202631dez_v2.pdf
+- Chambers Corporate Tax 2026 (Paraguai): https://chambers.com/practice-guides/guides/corporate-tax-2026/paraguay/law-and-practice
+
+---
+
+## 11. Checklists práticos
+
+### 11.1 Remessa de pagamento ao exterior (serviço, royalty, juros, dividendo)
+
+**A. Qualificação**
+1. Identificar a **natureza** do pagamento: serviço técnico ou não técnico, royalty (marca, patente, know-how), software, juros, dividendo, JCP, aluguel, reembolso de despesa ou *cost sharing*. Reembolsos também tendem a sofrer IRRF pela posição da RFB ⚠️.
+2. Identificar o **beneficiário**: país de residência, **vinculação** (PT), **JTF/RFP** (IN 1.037) e **beneficiário efetivo**.
+3. Verificar se há **acordo de bitributação** em vigor com o país do beneficiário, qual artigo se aplica e a alíquota limite. Obter o **certificado de residência fiscal**.
+4. Verificar **averbação no INPI** (contratos de tecnologia, marca e franquia), necessária para efeitos perante terceiros e para comprovar a natureza ⚠️.
+5. Verificar o **arm's length** (Lei 14.596/2023) se o beneficiário for parte relacionada ou estiver em JTF, e manter a documentação.
+
+**B. Cálculo dos tributos (lista de conferência)**
+6. **IRRF**: 15%, 25% ou a alíquota do acordo; **10%** para dividendos e **17,5%** para JCP. Aplicar o *gross-up* se o contrato for "líquido de impostos". DARF com o código de receita correspondente (por exemplo, **0422** para royalties e assistência técnica, **0473** para outros rendimentos, **9453** para juros e comissões, **5706** para JCP ⚠️ confirmar códigos).
+7. **CIDE de 10%** (royalties, serviços técnicos e assistência): DARF com código 8741 ⚠️.
+8. **PIS/Cofins-Importação de 9,25%** (serviços): DARF com códigos 5434 e 5442 ⚠️. Em 2026, apurar também a **CBS (0,9%) e o IBS (0,1%) de teste** nas obrigações acessórias.
+9. **ISS** (2% a 5%): guia municipal, com o tomador como responsável.
+10. **IOF-câmbio** (3,5% como regra para serviços e royalties; 0% para dividendos; 1,1% para investimento) ⚠️ cobrado pelo banco.
+
+**C. Câmbio**
+11. Contratar o câmbio em **instituição autorizada** ou eFX. Informar a **classificação da operação** (Res. BCB 277, Anexo) e apresentar os documentos: contrato, invoice, DARFs, comprovante de averbação no INPI e certificado de residência.
+12. Juros e principal de dívida: checar o **registro no SCE-Crédito**. Dividendos e retorno de capital: checar o **registro no SCE-IED**.
+
+**D. Pós-remessa**
+13. Contabilizar a despesa e verificar a **dedutibilidade** (PT, subcapitalização, art. 26 da Lei 12.249 para JTF, comprovação de efetividade).
+14. Obrigações acessórias:
+    - **EFD-Reinf** (série R-4000) para IRRF de beneficiários no exterior, e **DCTFWeb**;
+    - **EFD-Contribuições** (PIS/Cofins-Importação);
+    - **ECF** (registros de pagamentos ao exterior);
+    - **DIRF**: substituída pela EFD-Reinf e pela DCTFWeb a partir de 2025 ⚠️.
+15. Fornecer ao beneficiário o **comprovante de retenção**, para que ele compense o imposto no seu país.
+
+### 11.2 Primeira importação
+
+1. **Planejamento**: confirmar a **NCM** (laudo técnico, ou Solução de Consulta em caso de dúvida), as alíquotas (TEC/LETEC, ex-tarifário, antidumping, TIPI, PIS/Cofins, ICMS do estado), o **tratamento administrativo** (LPCO: Anvisa, MAPA, Inmetro, Exército, Ibama etc.) e o **custo total** (*landed cost*).
+2. **Habilitação no Radar** (IN 1.984/2020) na modalidade adequada. Cadastrar responsável legal e despachante. Configurar o **Catálogo de Produtos** no Portal Único (obrigatório para a DUIMP).
+3. **Fornecedor e contrato**: Incoterm (FOB ou FCA para controlar o frete; CIF para simplicidade), forma de pagamento (antecipado, cobrança, carta de crédito), lei e foro (CISG), cláusulas de qualidade, garantias e *royalties* embutidos (que afetam a valoração).
+4. **Benefícios**: ex-tarifário, drawback (se exportar), Recof, diferimento estadual de ICMS, ZFM ou regimes estaduais. Avaliar **importação direta, por conta e ordem ou por encomenda** e os riscos de **interposição** (comprovar a origem dos recursos).
+5. **Logística**: frete internacional, seguro, agente de carga e, no modal marítimo, Mercante/AFRMM.
+6. **Câmbio**: contrato de câmbio de importação (IOF de 0%). Pagamento antecipado de importação acima de 360 dias pode exigir registro como crédito ⚠️.
+7. **Registro da DUIMP**: dados do Catálogo, LPCO deferido, pagamento centralizado de II, IPI, PIS/Cofins e Taxa Siscomex (e, em 2026, CBS/IBS informativos), ICMS (GNRE/GARE ou exoneração).
+8. **Parametrização**: canal verde, amarelo (exame documental) ou vermelho (verificação física), além de cinza (valoração/fraude, IN SRF 228/2002 ⚠️ e IN 1.986/2020 ⚠️).
+9. **Desembaraço e entrega**: emitir a **NF-e de entrada**, contabilizar o estoque pelo custo, aproveitar créditos e guardar a documentação por 5 anos.
+10. **Pós-desembaraço**: revisão aduaneira em até 5 anos, controle do *landed cost* e conciliação câmbio × DUIMP × NF.
+
+### 11.3 Primeira exportação
+
+1. **Mercado e produto**: inteligência (Apex, Comex Stat, Mapa de Acordos), **NCM**, exigências do destino (certificações, rotulagem, SPS/TBT) e **regras de origem** para preferência tarifária (Mercosul, Mercosul–UE, Mercosul–Singapura, Mercosul–EFTA).
+2. **Habilitação**: Radar (a exportação dispensa limite para a modalidade expressa ⚠️) e acesso ao Portal Único.
+3. **Preço de exportação**: base **FOB** ou **FCA**. Excluir tributos imunes. Incluir custos logísticos, seguro, comissão de agente (comissão de agente no exterior tem IRRF de 0% em casos específicos ⚠️), financiamento, câmbio e Reintegra (0,1%; **3%** para ME e EPP até 31/12/2026).
+4. **Contrato e pagamento**: Incoterm, carta de crédito (UCP 600), cobrança documentária, pagamento antecipado (PAE) ou *open account* com seguro de crédito. Lei aplicável (CISG) e arbitragem.
+5. **Emissão da NF-e de exportação** (CFOP 7.xxx), sem ICMS, IPI ou PIS/Cofins, com indicação do enquadramento.
+6. **DU-E** no Portal Único: vinculada à NF-e, com LPCO quando aplicável. Despacho, presença de carga e embarque. O **CCE/averbação** confirma a exportação.
+7. **Câmbio**: contratar câmbio de exportação (IOF de 0%), ou manter os recursos no exterior. Avaliar **ACC/ACE**, NCE e Proex.
+8. **Créditos**: manter e aproveitar os créditos de ICMS, IPI e PIS/Cofins (PER/DCOMP, ressarcimento). Pedir o Reintegra.
+9. **Origem**: emitir o certificado de origem ou a autocertificação (entidades habilitadas, como as federações de indústria, e o COD no Mercosul).
+10. **Conformidade**: guardar comprovantes (BL/AWB, DU-E averbada, contrato de câmbio) para a imunidade. Exportação com **fim específico** via trading: controlar o prazo de 180 dias ⚠️.
+
+### 11.4 Abertura de subsidiária no exterior
+
+1. **Racional de negócio** e escolha da jurisdição: mercado, acordo de bitributação com o Brasil, alíquota local, WHT de saída, Pilar Dois, substância e custo de *compliance*.
+2. **Diagnóstico brasileiro**:
+   - **CFC** (Lei 12.973): o lucro é tributado em 31/12;
+   - se o país for **JTF/RFP** (IN 1.037), há agravantes;
+   - o país tem **acordo**? Verificar crédito e tratamento de dividendos;
+   - **PT**: contratos intercompany (serviços, royalties, mútuos, garantias);
+   - **Pilar Dois** se o grupo tiver receita de €750 milhões ou mais.
+3. **Estrutura**: direta pela PJ brasileira ou por holding intermediária (ver §7.2). Avaliar a PF (Lei 14.754) e o impacto sucessório.
+4. **Constituição local**: tipo societário (LLC/Inc., SL/SA, Lda., SRL, S.A. de C.V., LLC em *free zone*), administradores, registro fiscal (EIN, NIF, CUIT, RUC, RFC, TRN), conta bancária (KYC e beneficiário final) e contador local.
+5. **Câmbio e BCB**: remessa do capital como **investimento brasileiro no exterior** (IOF de **1,1%** ⚠️). Contrato de câmbio com a classificação adequada. **CBE** se os ativos totais no exterior forem de pelo menos US$ 1 milhão (anual) ou de pelo menos US$ 100 milhões (trimestral).
+6. **Contabilidade no Brasil**: equivalência patrimonial com **subcontas** (Lei 12.973), conversão (CPC 02), consolidação e ECF (registros de participações no exterior).
+7. **Fluxos recorrentes**: definir política de dividendos (WHT de saída × crédito no Brasil), *management fees* (PT, IRRF e CIDE na outra ponta) e financiamento (subcapitalização no destino).
+8. **Substância e governança**: reuniões e decisões locais, diretores residentes, contratos assinados localmente e registros. Isso evita EP no Brasil, ou no exterior, e a descaracterização pelo PPT.
+9. **Pessoas**: expatriação (residência fiscal, saída definitiva do Brasil pela DSDP, acordos previdenciários), *payroll* local e vistos.
+10. **Monitoramento anual**: apuração CFC, crédito de imposto estrangeiro, CBE, Arquivo Local de PT, CbCR (se aplicável) e revisão da lista de JTF.
+
+---
+
+## 12. Tabela-resumo
+
+| Tema | Regra principal (22/11/2026) | Base legal | Status |
+|---|---|---|---|
+| Acordos de bitributação | 37 acordos abrangentes (38 países). Novos: Polônia (Decreto 12.865/2026) e nova convenção com a Noruega (Decreto 12.406/2025). Colômbia aprovada (DL 193/2025), aguardando promulgação. Reino Unido assinado, sem vigência. Sem acordo com EUA e Alemanha | Decretos de promulgação | ⚠️ Colômbia e Reino Unido |
+| MLI | O Brasil não é signatário. Usa PPT bilateral | — | Ok |
+| IRRF de serviços técnicos e royalties | 15% (25% para JTF) | MP 2.159-70, art. 3º; Lei 9.779, art. 8º | Ok |
+| IRRF de serviços não técnicos | 25% | Lei 9.779, art. 7º | Ok |
+| IRRF de juros | 15% (25% para JTF) | RIR/2018 | Ok |
+| IRRF de dividendos ao exterior | **10%** desde 01/01/2026. Isenções para governos, fundos soberanos e previdência. Crédito pelo art. 10-A | Lei 15.270/2025 | ⚠️ regulamentação de JTF e do crédito |
+| IRRF de JCP | **17,5%** desde 01/01/2026 | LC 224/2025 | Ok |
+| CIDE-royalties | 10% (não incide sobre software sem transferência de tecnologia) | Lei 10.168/2000; Lei 11.452/2007 | Ok |
+| PIS/Cofins-Importação de serviços | 1,65% + 7,6% = 9,25% (até 2026) | Lei 10.865/2004 | Extinto em 2027 (CBS) |
+| PIS/Cofins-Importação de bens | 2,1% + 9,65% (+ adicional de 1% para alguns itens) | Lei 10.865/2004 | Extinto em 2027 |
+| ISS na importação de serviços | 2% a 5% | LC 116/2003 | Até 2032 |
+| IOF-câmbio | Serviços e demais saídas: **3,5%**. Investimento no exterior: **1,1%**. Bens: 0%. Dividendos e IED: 0%. Ingressos gerais: 0,38%. Empréstimo de até 364 dias: 3,5% | Decreto 6.306/2007, art. 15-B (Decreto 12.499/2025) | ⚠️ mérito no STF pendente |
+| Ganho de capital de não residente | 15% a 22,5% (25% para JTF) | Lei 13.259/2016 | Ok |
+| Paraíso fiscal | Alíquota abaixo de 17% (países transparentes) ou abaixo de 20%. Lista na IN 1.037/2010 | Lei 9.430/1996, arts. 24 e 24-A | ⚠️ alterações de 2025/2026 |
+| Preços de transferência | Arm's length OCDE, obrigatório desde 2024. Arquivo Local e Arquivo Global | Lei 14.596/2023; IN 2.161/2023 | ⚠️ limites e multas |
+| CbCR | Grupos com receita de R$ 2,26 bilhões ou mais | IN 1.681/2016 | Ok |
+| CFC (PJ) | Lucro de controladas tributado em 31/12 (34%), com crédito do imposto estrangeiro | Lei 12.973/2014 | ⚠️ consolidação e crédito de 9% |
+| Pilar Dois | Adicional de CSLL (QDMTT) para grupos com €750 milhões ou mais. Pagamento no 7º mês (31/07/2026 para 2025) | Lei 15.079/2024; IN 2.228/2024 | ⚠️ declaração GIR local |
+| PF — offshores e aplicações | 15% anual. Controladas tributadas em 31/12 | Lei 14.754/2023; IN 2.180/2024 | Ok |
+| PF — dividendos e IRPFM | IRRF de 10% acima de R$ 50 mil por mês. Imposto mínimo de até 10% para renda acima de R$ 600 mil (10% a partir de R$ 1,2 milhão) | Lei 15.270/2025 | DAA 2027 |
+| Marco cambial | Lei 14.286/2021 (vigente desde 31/12/2022); Res. BCB 277 a 281 | | Ok |
+| CBE | Anual com ativos de US$ 1 milhão ou mais; trimestral com US$ 100 milhões ou mais. Inclui ativos virtuais desde 02/2026 | Res. BCB 279/2022 | ⚠️ prazos anuais |
+| SCE-IED | Comunicação em 30 dias. Declaração anual com ativo de R$ 100 milhões ou mais; trimestral com R$ 300 milhões ou mais | Res. BCB 278/2022 | ⚠️ |
+| Criptoativos | SPSAVs autorizadas pelo BCB. Ativos virtuais no câmbio (Res. 521) desde 02/02/2026 | Lei 14.478/2022; Res. BCB 519 a 521/2025 | ⚠️ IOF e tributação |
+| DUIMP | DI desligada (marítimo e aéreo) em abril de 2026; desligamento total previsto para 01 a 10/12/2026 | Portaria Coana 165/2024 | ⚠️ cronograma oficial |
+| Radar | Expressa até US$ 50 mil; limitada até US$ 150 mil por semestre; ilimitada | IN 1.984/2020 | Ok |
+| IBS/CBS-Importação | Teste em 2026 (CBS de 0,9% e IBS de 0,1%, dispensados). CBS cheia em 2027; IBS gradual de 2029 a 2033 | EC 132/2023; LC 214/2025 | Ok |
+| Interposição fraudulenta | Perdimento, ou multa igual ao valor aduaneiro. Multa de 10% para quem cede o nome | DL 1.455/1976, art. 23; Lei 11.488/2007, art. 33 | Ok |
+| Drawback | Suspensão, isenção ou restituição de II, IPI, PIS/Cofins e AFRMM (e ICMS na suspensão) | Lei 11.945/2009; Lei 12.350/2010 | Ok |
+| Reintegra | 0,1% geral; 3% para ME/EPP até 31/12/2026 | Lei 13.043/2014; LC 216/2025; Decreto 12.565/2025 | ⚠️ 2027 |
+| Mercosul–UE | Assinado em 17/01/2026. O PE enviou o texto ao TJUE. Aplicação provisória desde 01/05/2026 (segundo as fontes) | | ⚠️ |
+| Mercosul–Singapura | Em vigor para o Brasil desde 01/08/2026 | Decreto 13.081/2026 | Ok |
+| Mercosul–EFTA | Promulgado (Decreto 13.126/2026); vigência em 01/10/2026 | | ⚠️ |
+
+---
+
+## 13. Mapa de incertezas (⚠️)
+
+1. **IOF-câmbio**: o enquadramento de pagamentos de serviços, royalties e juros na alíquota residual de 3,5%, a alíquota de 1,1% para "investimento" e o julgamento de mérito no STF (ADC 96 e ADIs 7.827 e 7.839). Possíveis novos decretos.
+2. **Dividendos ao exterior (Lei 15.270/2025)**: a regulamentação do crédito do art. 10-A, a alíquota para beneficiário em JTF, a interação com acordos e com o crédito no país de residência, e o prazo-limite de pagamento dos lucros de até 2025 (transição).
+3. **Status de acordos**: Colômbia (promulgação e data de efeitos), Reino Unido (ratificação brasileira), início dos efeitos da Polônia e da nova convenção com a Noruega, protocolos de Chile, China, Singapura e Suécia (2026).
+4. **Cronograma da DUIMP e desligamento da DI** (granel e demais modais em dezembro de 2026). A Portaria Coana 165/2024 é ajustada por Notícias Siscomex.
+5. **Mercosul–UE e Mercosul–EFTA**: a base jurídica e a data efetiva da aplicação provisória (01/05/2026) e da vigência do acordo com a EFTA (01/10/2026), além das regras de origem e cotas aplicáveis.
+6. **Lista de JTF/RFP** (IN 1.037/2010 após a IN 2.265/2025): situação de Emirados, Madeira, Costa Rica, ETVE e *free zones*.
+7. **PT (IN 2.161/2023)**: limites de obrigatoriedade do Arquivo Local e do Arquivo Global, prazos, multas exatas e *safe harbours*.
+8. **Pilar Dois**: formato e prazo da declaração GIR local e IN complementares de 2026. Interação com o CFC (art. 87 da Lei 12.973).
+9. **Criptoativos**: prazo de adequação das SPSAVs, limites da Res. 521, IOF sobre stablecoins e DeCripto/CARF.
+10. **Valores da Taxa Siscomex, AFRMM por modalidade, limites do Radar e alterações de II pela Gecex 852/866/942 de 2026**.
+
+> **Regra operacional para os agentes**: antes de emitir uma orientação definitiva sobre qualquer item marcado com ⚠️, consultar a fonte primária indicada (Planalto, SIJUT/RFB, normativos BCB, Portal Siscomex, MDIC/Gecex) e registrar a data da consulta.
